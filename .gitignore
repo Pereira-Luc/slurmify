@@ -1,0 +1,17 @@
+__pycache__
+Tests/__pycache__
+out
+KnowladgeForLLM
+OLDSYSPROMPT
+Other
+README2.md
+testvlaidateAPI.py 
+webUITool.py
+api/logs
+.idea
+pipeline.py
+config_info.puml
+tmpTest
+p
+build
+dist
