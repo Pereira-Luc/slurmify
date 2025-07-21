@@ -1,0 +1,287 @@
+# TODO: Check the correctness of the tests
+
+TestConfigs:
+  BasicConfigs:
+    description: "Valid configurations that should pass all validation checks"
+    tests:
+      Test1.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test2.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test3.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test4.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test5.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test6.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test7.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test8.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test9.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+      Test10.py:
+        expected_result: "valid"
+        description: "Basic Test"
+        features_tested:
+          - "Basic job configuration"
+
+  KnownWrong: # CORRECT
+    description: "Configurations with known validation errors"
+    tests:
+      Test1.py:
+        expected_result: "valid"
+        description: "Job with invalid partition name"
+        error_type: "validation"
+        expected_error: "Invalid partition 'invalid_partition'"
+        features_tested:
+          - "Partition validation"
+          - "Auto Fix"
+      Test2.py:
+        expected_result: "valid"
+        description: "Job with invalid QOS"
+        error_type: "validation"
+        expected_error: "Invalid QOS"
+        features_tested:
+          - "QOS validation"
+          - "Auto Fix"
+      Test3.py:
+        expected_result: "valid"
+        description: "Job with invalid number of Nodes (negative)"
+        error_type: "validation"
+        expected_error: "Negative Nodes"
+        features_tested:
+          - "Negative nodes"
+          - "Auto Fix"
+      Test4.py:
+        expected_result: "invalid"
+        description: "To many Nodes"
+        error_type: "validation"
+        expected_error: "Invalid amount of Nodes (positive)"
+        features_tested:
+          - "To many Nodes"
+          - "Auto Fix"
+      Test5.py:
+        expected_result: "invalid"
+        description: "Job with invalid Time Format"
+        error_type: "validation"
+        expected_error: "Invalid Time format"
+        features_tested:
+          - "Time validation"
+      Test6.py:
+        expected_result: "invalid"
+        description: "requested time"
+        error_type: "validation"
+        expected_error: "Requested Time"
+        features_tested:
+          - "Validate time"
+      Test7.py: # NEEDS VALIDATION FIXING
+        expected_result: "invalid"
+        description: "Job with custom Resources class with a typo"
+        error_type: "validation"
+        expected_error: "Invalid custom Resources"
+        features_tested:
+          - "Custom Resources validation"
+      Test8.py:
+        expected_result: "valid"
+        description: "Job with GPU requested but CPU partition"
+        error_type: "validation"
+        expected_error: "GPU requested but not in GPU partition"
+        features_tested:
+          - "GPU-partition compatibility"
+          - "Auto Fix"
+      Test9.py:
+        expected_result: "invalid"
+        description: "Job with string parameter instead of Int"
+        error_type: "validation"
+        expected_error: "wrong type params"
+        features_tested:
+          - "wrong type params"
+      Test10.py:
+        expected_result: "invalid"
+        description: "Job with missing account"
+        error_type: "validation"
+        expected_error: "Missing account"
+        features_tested:
+          - "Missing Account"
+      Test11.py:
+        expected_result: "valid"
+        description: "Requesting Multiple nodes but only 1 task"
+        error_type: "validation"
+        expected_error: "Invalid Node amount"
+        features_tested:
+          - "Node Calculation"
+          - "Auto Fix"
+
+  SyntaxProblems:
+    description: "Configurations with Python syntax or usage errors"
+    tests:
+      Test1.py:
+        expected_result: "invalid"
+        description: "File with Python syntax error"
+        error_type: "syntax"
+        expected_error: "SyntaxError"
+        features_tested:
+          - "Syntax error handling"
+      Test2.py:
+        expected_result: "invalid"
+        description: "File with incorrect imports"
+        error_type: "import"
+        expected_error: "ImportError"
+        features_tested:
+          - "Import error handling"
+      Test3.py:
+        expected_result: "invalid"
+        description: "Missing required parameters in Jobs.add_job()"
+        error_type: "parameter"
+        expected_error: "Missing required parameter(s) for Jobs.add_job()"
+        features_tested:
+          - "Parameter validation"
+      Test4.py:
+        expected_result: "invalid"
+        description: "Incorrect type for job parameters"
+        error_type: "type"
+        expected_error: "Type error in job parameters"
+        features_tested:
+          - "Type validation"
+      Test5.py:
+        expected_result: "invalid"
+        description: "Malformed job object"
+        error_type: "structure"
+        expected_error: "Invalid job structure"
+        features_tested:
+          - "Object structure validation"
+
+  genByAI:
+    description: "Test configurations generated by AI for comprehensive validation"
+    tests:
+      CritError.py:
+        expected_result: "invalid"
+        description: "Empty File"
+        expected_error: "Critical error in configuration"
+        features_tested:
+          - "Critical error handling"
+      Test1.py: # OK
+        expected_result: "valid"
+        description: "Multy System configuration"
+        features_tested:
+          - "Multy System configuration"
+      Test2.py:
+        expected_result: "invalid"
+        description: "Jobs misspelled"
+        features_tested:
+          - "Check Jobs naming"
+      Test3.py:
+        expected_result: "invalid"
+        description: "AI-generated with many errors"
+        features_tested:
+          - "Invalid parameters"
+      Test4.py:
+        expected_result: "invalid"
+        description: "AI-generated to many cpus for given partition"
+        features_tested:
+          - "Machine learning job template"
+      Test5.py:
+        expected_result: "valid"
+        description: "AI-generated Mixture of hacky usages"
+        features_tested:
+          - "Complex environment configuration"
+      Test6.py:
+        expected_result: "invalid"
+        description: "AI-generated passing Resources to system"
+        features_tested:
+          - "Parallel execution configuration"
+      Test7.py:
+        expected_result: "valid"
+        description: "AI-generated mixture of terrible stuff"
+        features_tested:
+          - "WTF"
+      Test8.py:
+        expected_result: "invalid"
+        description: "AI-generated define Resources directly on Job"
+        features_tested:
+          - "Job dependency configuration"
+      Test9.py:
+        expected_result: "invalid"
+        description: "AI-generated specified cores with sting"
+        features_tested:
+          - "Wrong type"
+      Test10.py:
+        expected_result: "valid"
+        description: "AI-generated long-running job"
+        features_tested:
+          - "Long-duration job configuration"
+      Test11.py: #ok
+        expected_result: "invalid"
+        description: "Missing 'Jobs' object in configuration"
+        features_tested:
+          - "Jobs requirements Check"
+      Test12.py: #ok
+        expected_result: "valid"
+        description: "AI-generated job minor autocorrected errors"
+        features_tested:
+          - "Auto Fix"
+      Test13.py: # OK checked
+        expected_result: "valid"
+        description: "Specify GPUs on Default mode (AUTOFIX)"
+        features_tested:
+          - "values validation"
+      Test14.py:
+        expected_result: "valid"
+        description: "AI-generated job with container execution"
+        features_tested:
+          - "Container execution configuration"
+      Test15.py: # OK
+        expected_result: "valid"
+        description: "AI-generated job wcleith multiple modules"
+        features_tested:
+          - "Multiple jobs loading"
+      Test16.py:
+        expected_result: "valid"
+        description: "AI-generated job with interactive mode"
+        features_tested:
+          - "Interactive job configuration"
+      Test17.py:
+        expected_result: "valid"
+        description: "AI-generated job for testing mode"
+        features_tested:
+          - "Test mode configuration"
+      Test18.py:
+        expected_result: "invalid"
+        description: "AI-generated specified class inside of Resources"
+        features_tested:
+          - "Special account configuration"
+      Test19.py:
+        expected_result: "valid"
+        description: "AI-generated job with signal handling"
+        features_tested:
+          - "Signal handling configuration"

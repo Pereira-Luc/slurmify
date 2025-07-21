@@ -1,0 +1,37 @@
+Tested on Laptop no slurm
+
+# CACHE PKL TIME 
+20 runs
+[INFO] Average elapsed time: 0.36 seconds
+[INFO] Elapsed time: 7.20 seconds
+100 runs
+[INFO] Average elapsed time: 0.32 seconds
+[INFO] Elapsed time: 32.49 seconds
+
+
+# NO-CACHE PKL simulates new runs
+20 runs
+[INFO] Average elapsed time: 0.38 seconds
+[INFO] Elapsed time: 7.65 seconds
+100 runs
+[INFO] Average elapsed time: 0.35 seconds
+[INFO] Elapsed time: 35.14 seconds
+
+# CACHE YAML TIME
+20 runs
+[INFO] Average elapsed time: 0.35 seconds
+[INFO] Elapsed time: 6.96 seconds
+100 runs
+[INFO] Average elapsed time: 0.32 seconds
+[INFO] Elapsed time: 31.73 seconds
+
+# NO-CACHE YAML simulates new runs
+20 runs
+[INFO] Average elapsed time: 0.70 seconds
+[INFO] Elapsed time: 14.05 seconds
+100 runs
+[INFO] Average elapsed time: 0.72 seconds
+[INFO] Elapsed time: 72.02 seconds
+
+NO-CACHE is more close to the real usability of the code since usualy users will run 1 config which will not be cached.
+CACHE is more respresenting the API which is continuously running and caching make sense.

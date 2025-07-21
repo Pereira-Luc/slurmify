@@ -1,0 +1,9 @@
+## This file is used to install the required packages for the project.
+## These are the versions I used but older can work too.
+## You can use pip install -r requirements.txt to install all the packages at once.
+
+
+PyYAML == 6.0.2
+uvicorn == 0.34.2
+streamlit == 1.45.0
+fastapi == 0.115.12

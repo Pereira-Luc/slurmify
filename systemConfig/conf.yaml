@@ -1,0 +1,89 @@
+# This file will ne use for simple access to the hardware configuration of the hpc which will be used for validation so that when
+# stuff changes it cn easely be updated without the need to change the code
+
+# Validation for qos/modes and time and some other things:
+#         QOS	Max. Time (hh:mm)	Max. nodes per job	Max. jobs per user	Priority	Used for..
+#         dev	06:00	1	1	Regular	Interactive executions for code/workflow development, with a maximum of 1 job per user; QOS linked to special reservations
+#         test	00:30	5%	1	High	Testing and debugging, with a maximum of 1 job per user
+#         short	06:00	5%	No limit	Regular	Small jobs for backfilling
+#         short-preempt	06:00	5%	No limit	Regular	Small jobs for backfilling
+#         default	48:00	25%	No limit	Regular	Standard QOS for production jobs
+#         long	144:00	5%	1	Low	Non-scalable executions with a maximum of 1 job per user
+#         large	24:00	70%	1	Regular	Very large scale executions by special arrangement, max 1 job per user, run once every two weeks (Sun)
+#         urgent	06:00	5%	No limit	Very high	Urgent computing needs, by special arrangement, they can preempt the 'short-preempt' QOS
+
+# Each node has 2 AMD Rome CPUs, each with 64 cores @ 2.6 GHz for a total of 128 cores 256 Threads
+# (256HT cores), and has 512 GB of RAM. Each gpu node has 4 gpus
+system_constraints:
+  total_nodes: 574
+  partition_details:
+    cpu: # CPU only Nodes
+      nodes: 573
+      cores_per_node: 128 # 2x 64 cores @ 2.6 GHz
+      ram_per_node: 512 # GB
+    gpu:
+      nodes: 200 # GPU nodes
+      cores_per_node: 64 # 2x 32 cores @ 2.35 GHz
+      gpus_per_node: 4 # NVIDIA A100-40
+      ram_per_node: 512 # GB
+      local_storage: 1.92 # TB SSD
+    fpga:
+      nodes: 20
+      cores_per_node: 64 # 2x 32 cores @ 2.35 GHz
+      fpgas_per_node: 2 # Intel Stratix 10MX 16 GB
+      ram_per_node: 512 # GB
+      local_storage: 1.92 # TB SSD
+    largemem:
+      nodes: 20
+      cores_per_node: 128 # 2x 64 cores @ 2.6 GHz
+      ram_per_node: 4096 # GB (4 TB)
+      local_storage: 1.92 # TB
+
+# Job constraints
+constraints:
+  max_nodes: # modes change max amount of nodes that can be used
+    test: 0.05
+    short: 0.05
+    short-preempt: 0.05
+    default: 0.25
+    long: 0.05
+    large: 0.70
+    urgent: 0.05
+  modes:
+    - dev
+    - test
+    - short
+    - short-preempt
+    - default
+    - long
+    - large
+    - urgent
+  partitions:
+    - cpu
+    - gpu
+    - fpga
+    - largemem
+  time:
+    dev: "06:00:00"
+    test: "00:30:00"
+    short: "06:00:00"
+    short-preempt: "06:00:00"
+    default: "48:00:00"
+    long: "144:00:00"
+    large: "24:00:00"
+    urgent: "06:00:00"
+
+# Translation form python config to sh config
+# Extend this to add new features to python also need to changes the classes
+SlurmInfo:
+  account: "account"
+  cores: "cpus-per-task"
+  gpu: "gpus"
+  mode: "qos"
+  nodes: "nodes"
+  partitions: "partition"
+  ntasks: "ntasks"
+  time: "time"
+  logs:
+    default: "output"
+    error: "error"

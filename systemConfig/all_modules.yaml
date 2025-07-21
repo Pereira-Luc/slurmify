@@ -1,0 +1,3157 @@
+'4':
+  4.3.1-gompi-2021a: {}
+  4.3.1-gompi-2022a: {}
+  4.3.1-gompi-2023a: {}
+  4.3.1-gompi-2024a: {}
+  4.3.1-iimpi-2021a: {}
+  4.3.1-iimpi-2022a: {}
+  4.3.1-iimpi-2023a: {}
+  4.3.1-iimpi-2024a: {}
+520nmx:
+  '20.4': {}
+ACTC:
+  1.1-GCCcore-10.3.0: {}
+  1.1-GCCcore-11.3.0: {}
+  1.1-GCCcore-12.3.0: {}
+AMD-uProf:
+  3.4.502: {}
+  3.5.671: {}
+  3.6.449: {}
+  4.0.341: {}
+  4.1.424: {}
+  5.0.1479: {}
+ANTLR:
+  2.7.7-GCCcore-10.3.0-Java-11: {}
+  2.7.7-GCCcore-11.3.0-Java-11: {}
+  2.7.7-GCCcore-12.3.0-Java-11: {}
+AOCC:
+  3.1.0-GCCcore-10.3.0: {}
+  3.2.0-GCCcore-10.3.0: {}
+  3.2.0-GCCcore-11.3.0: {}
+  4.0.0-GCCcore-12.3.0: {}
+  5.0.0-GCCcore-13.3.0: {}
+AOCL-LibM:
+  4.0-gompi-2022a: {}
+AOCL-Sparse:
+  4.0-gompi-2022a: {}
+APR:
+  1.7.0-GCCcore-10.3.0: {}
+APR-util:
+  1.6.1-GCCcore-10.3.0: {}
+ATK:
+  2.36.0-GCCcore-10.3.0: {}
+  2.38.0-GCCcore-11.3.0: {}
+  2.38.0-GCCcore-12.3.0: {}
+  2.38.0-GCCcore-13.3.0: {}
+Abseil:
+  20230125.2-GCCcore-12.3.0: {}
+  20230125.3-GCCcore-12.3.0: {}
+  20240722.0-GCCcore-13.3.0: {}
+Advisor:
+  2021.4.0: {}
+  2022.0.0: {}
+  2022.1.0: {}
+  2023.2.0: {}
+  '2024.3': {}
+Apple:
+  SGI: {}
+Apptainer:
+  1.1.9-GCCcore-11.3.0-nimbix: {}
+  1.2.4-GCCcore-12.3.0: {}
+  1.3.1-GCCcore-12.3.0: {}
+  1.3.4-GCCcore-13.3.0: {}
+  1.3.6-GCCcore-13.3.0: {}
+Arm-Forge:
+  21.1.1-GCC-10.3.0: {}
+  22.0.4-GCC-11.3.0: {}
+Armadillo:
+  12.6.2-foss-2023a: {}
+  14.0.2-foss-2024a: {}
+  14.0.3-foss-2024a: {}
+Arrow:
+  14.0.1-gfbf-2023a: {}
+  17.0.0-gfbf-2024a: {}
+  3.0.0-foss-2021a: {}
+  6.0.0-foss-2021a: {}
+  8.0.0-foss-2022a: {}
+Atomic:
+  Molecular: {}
+AutoDock-GPU:
+  1.5.3-GCC-12.3.0-CUDA-12.1.1: {}
+AutoDock-Vina:
+  1.2.7-foss-2024a: {}
+Autoconf:
+  2.69-GCCcore-10.3.0: {}
+  2.69-GCCcore-11.3.0: {}
+  '2.71': {}
+  2.71-GCCcore-10.3.0: {}
+  2.71-GCCcore-11.3.0: {}
+  2.71-GCCcore-12.3.0: {}
+  2.72-GCCcore-13.3.0: {}
+Automake:
+  1.16.3-GCCcore-10.3.0: {}
+  1.16.5: {}
+  1.16.5-GCCcore-11.3.0: {}
+  1.16.5-GCCcore-12.3.0: {}
+  1.16.5-GCCcore-13.3.0: {}
+Autotools:
+  20210128-GCCcore-10.3.0: {}
+  '20220317': {}
+  20220317-GCCcore-11.3.0: {}
+  20220317-GCCcore-12.3.0: {}
+  20231222-GCCcore-13.3.0: {}
+BLIS:
+  0.8.1-GCC-10.3.0: {}
+  0.8.1-GCCcore-10.3.0: {}
+  0.9.0-GCC-11.3.0: {}
+  0.9.0-GCC-12.3.0: {}
+  1.0-GCC-13.3.0: {}
+  3.0.1-GCCcore-10.3.0-amd: {}
+Bazel:
+  3.7.2-GCCcore-10.3.0: {}
+  5.1.1-GCCcore-11.3.0: {}
+  6.1.0-GCCcore-12.3.0: {}
+  6.3.1-GCCcore-12.3.0: {}
+  6.3.1-GCCcore-13.3.0: {}
+  6.5.0-GCCcore-13.3.0: {}
+  7.4.1-GCCcore-13.3.0: {}
+BeautifulSoup:
+  4.10.0-GCCcore-11.3.0: {}
+  4.12.2-GCCcore-12.3.0: {}
+  4.12.3-GCCcore-13.3.0: {}
+Biopython:
+  1.79-foss-2021a: {}
+Bison:
+  3.5.3-GCCcore-9.3.0: {}
+  3.7.1-GCCcore-10.2.0: {}
+  3.7.6: {}
+  3.7.6-GCCcore-10.3.0: {}
+  3.8.2: {}
+  3.8.2-GCCcore-11.3.0: {}
+  3.8.2-GCCcore-12.3.0: {}
+  3.8.2-GCCcore-13.3.0: {}
+Blender:
+  2.93.5-binary: {}
+  3.1.2-linux-x64: {}
+  3.2.2-linux-x64: {}
+  4.0.2-linux-: {}
+  4.3.2-linux-: {}
+Block:
+  1.5.3-20200525-foss-2023a: {}
+  1.5.3-20200525-foss-2024a: {}
+Blosc2:
+  2.4.3-GCCcore-11.3.0: {}
+Boost:
+  1.76.0-GCC-10.3.0: {}
+  1.79.0-GCC-11.3.0: {}
+  1.79.0-GCC-13.3.0: {}
+  1.79.0-iimpi-2022a: {}
+  1.79.0-intel-compilers-2022.1.0: {}
+  1.82.0-GCC-12.3.0: {}
+  1.82.0-GCC-12.3.0-ICU-71.1: {}
+  1.85.0-GCC-13.3.0: {}
+Boost.MPI:
+  1.79.0-gompi-2023a: {}
+  1.79.0-gompi-2024a: {}
+  1.82.0-gompi-2023a: {}
+  1.85.0-gompi-2024a: {}
+Boost.Python:
+  1.79.0-GCC-11.3.0: {}
+  1.82.0-GCC-12.3.0: {}
+Brotli:
+  1.0.9-GCCcore-10.3.0: {}
+  1.0.9-GCCcore-11.3.0: {}
+  1.0.9-GCCcore-12.3.0: {}
+  1.1.0-GCCcore-13.3.0: {}
+Brunsli:
+  0.1-GCCcore-12.3.0: {}
+  0.1-GCCcore-13.3.0: {}
+C:
+  C: {}
+CCCL:
+  2.7.0-GCCcore-13.3.0-CUDA-12.6.0: {}
+CDO:
+  1.9.10-gompi-2021a: {}
+  2.0.6-gompi-2022a: {}
+CFITSIO:
+  3.49-GCCcore-10.3.0: {}
+  4.3.0-GCCcore-12.3.0: {}
+  4.4.1-GCCcore-13.3.0: {}
+CGAL:
+  4.14.3-gompi-2021a: {}
+  4.14.3-gompi-2022a: {}
+  5.2-gompi-2022a: {}
+  5.2.2-gompi-2021a: {}
+  5.6-GCCcore-12.3.0: {}
+  5.6.1-GCCcore-13.3.0: {}
+CMake:
+  3.18.4: {}
+  3.18.4-GCCcore-10.2.0: {}
+  3.20.1: {}
+  3.20.1-GCCcore-10.3.0: {}
+  3.20.4: {}
+  3.23.1: {}
+  3.23.1-GCCcore-11.3.0: {}
+  3.26.3-GCCcore-12.3.0: {}
+  3.29.3-GCCcore-13.3.0: {}
+CP2K:
+  2022.1-foss-2022a: {}
+  2022.1-foss-2022a-CUDA-11.7.0: {}
+  2023.1-foss-2022a: {}
+  2023.1-foss-2022a-CUDA-11.7.0: {}
+  2023.1-foss-2023a: {}
+  2023.1-foss-2023a-CUDA-12.2.0: {}
+  2023.1-foss-2023a-spglib-2.0.2: {}
+  2024.3-foss-2024a: {}
+  2024.3-foss-2024a-CUDA-12.6.0: {}
+  8.2-foss-2021a: {}
+  8.2-foss-2021a-CUDA-11.3.1: {}
+  8.2-foss-2022a: {}
+  9.1-foss-2022a: {}
+CPPE:
+  0.3.1-GCC-12.3.0: {}
+  0.3.1-GCC-13.3.0: {}
+CUDA:
+  11.3.1: {}
+  11.4.1: {}
+  11.4.2: {}
+  11.4.4: {}
+  11.7.0: {}
+  11.7.1: {}
+  11.8.0: {}
+  12.1.1: {}
+  12.2.0: {}
+  12.3.0: {}
+  12.3.2: {}
+  12.6.0: {}
+CUDA-Python:
+  12.6.0-gfbf-2024a-CUDA-12.6.0: {}
+CUTLASS:
+  3.4.0-foss-2023a-CUDA-12.1.1: {}
+CVXOPT:
+  1.3.1-foss-2023a: {}
+Catch2:
+  2.13.10-GCCcore-13.3.0: {}
+  2.13.9: {}
+Cereal:
+  1.3.0: {}
+  1.3.2: {}
+  1.3.2-GCCcore-12.3.0: {}
+CheMPS2:
+  1.8.12-foss-2023a: {}
+  1.8.12-foss-2024a: {}
+Check:
+  0.15.2-GCCcore-10.3.0: {}
+  0.15.2-GCCcore-11.3.0: {}
+  0.15.2-GCCcore-12.3.0: {}
+  0.15.2-GCCcore-13.3.0: {}
+Clang:
+  12.0.1-GCCcore-10.3.0: {}
+  12.0.1-GCCcore-10.3.0-CUDA-11.3.1: {}
+  13.0.1-GCCcore-10.3.0: {}
+  13.0.1-GCCcore-10.3.0-CUDA-11.3.1: {}
+  13.0.1-GCCcore-11.3.0: {}
+  13.0.1-GCCcore-11.3.0-CUDA-11.7.0: {}
+  16.0.6-GCCcore-12.3.0: {}
+  16.0.6-GCCcore-12.3.0-CUDA-12.2.0: {}
+  18.1.8-GCCcore-13.3.0: {}
+  18.1.8-GCCcore-13.3.0-CUDA-12.3.2: {}
+  18.1.8-GCCcore-13.3.0-CUDA-12.6.0: {}
+Compress-Raw-Zlib:
+  2.202-GCCcore-11.3.0: {}
+CppUnit:
+  1.15.1-GCCcore-10.3.0: {}
+  1.15.1-GCCcore-11.3.0: {}
+  1.15.1-GCCcore-12.3.0: {}
+CubeGUI:
+  4.6-GCCcore-10.3.0: {}
+  4.7-GCCcore-11.3.0: {}
+  4.8-GCCcore-11.3.0: {}
+  4.8.2-GCCcore-12.3.0: {}
+  4.8.2-GCCcore-13.3.0: {}
+CubeLib:
+  4.6-GCCcore-10.3.0: {}
+  4.7-GCCcore-11.3.0: {}
+  4.8-GCCcore-11.3.0: {}
+  4.8.1-GCCcore-12.3.0: {}
+  4.8.2-GCCcore-13.3.0: {}
+CubeWriter:
+  4.6-GCCcore-10.3.0: {}
+  4.7-GCCcore-11.3.0: {}
+  4.8-GCCcore-11.3.0: {}
+  4.8.1-GCCcore-12.3.0: {}
+  4.8.2-GCCcore-13.3.0: {}
+Cython:
+  3.0.10-GCCcore-13.3.0: {}
+  3.0.10-GCCcore-13.3.0-Python-3.11.10: {}
+DB:
+  18.1.40-GCCcore-10.3.0: {}
+  18.1.40-GCCcore-11.3.0: {}
+DBCSR:
+  2.7.0-foss-2024a-CUDA-12.6.0: {}
+DBus:
+  1.13.18-GCCcore-10.3.0: {}
+  1.14.0-GCCcore-11.3.0: {}
+  1.15.4-GCCcore-12.3.0: {}
+  1.15.8-GCCcore-13.3.0: {}
+DEFLATE:
+  zlib: {}
+Dakota:
+  6.16.0-foss-2021a: {}
+  6.16.0-foss-2022a: {}
+Dice:
+  20221025-foss-2023a: {}
+  20240121-foss-2024a: {}
+Doxygen:
+  1.11.0-GCCcore-13.3.0: {}
+  1.9.1-GCCcore-10.3.0: {}
+  1.9.4-GCCcore-11.3.0: {}
+  1.9.7-GCCcore-12.3.0: {}
+DualSPHysics:
+  5.0.175-GCC-10.3.0: {}
+  5.0.175-GCC-10.3.0-CUDA-11.3.1: {}
+  5.0.175-GCC-11.3.0: {}
+  5.0.175-GCC-11.3.0-CUDA-11.7.0: {}
+  5.0.175-foss-2022a: {}
+  5.0.233-GCC-12.3.0: {}
+  5.0.233-foss-2023a: {}
+ELPA:
+  2021.05.001-foss-2021a: {}
+  2021.11.001-foss-2022a: {}
+  2021.11.001-intel-2022a: {}
+  2023.05.001-foss-2023a: {}
+  2023.05.001-intel-2023a: {}
+  2024.05.001-foss-2024a: {}
+ESMF:
+  6.3.0rp1-intel-2021a: {}
+  8.0.0-intel-2022a: {}
+  8.1.0-intel-2022a: {}
+  8.1.1-foss-2021a: {}
+  8.3.0-foss-2022a: {}
+  8.3.0-intel-2022a: {}
+  8.4.2-foss-2023a: {}
+  8.4.2-intel-2023a: {}
+EasyBuild:
+  4.5.0: {}
+  4.5.1: {}
+  4.5.2: {}
+  4.5.3: {}
+  4.5.4: {}
+  4.5.5: {}
+  4.6.0: {}
+  4.8.0: {}
+  4.9.2: {}
+  4.9.3: {}
+  4.9.4: {}
+  5.0.0: {}
+Eigen:
+  3.3.9-GCCcore-10.3.0: {}
+  3.4.0-GCCcore-11.3.0: {}
+  3.4.0-GCCcore-12.3.0: {}
+  3.4.0-GCCcore-13.3.0: {}
+Emacs:
+  27.2-GCCcore-10.3.0: {}
+Extrae:
+  3.8.3-gompi-2021a: {}
+  4.0.1-gompi-2022a: {}
+  4.0.1-iimpi-2022a: {}
+  4.0.6-gompi-2023a: {}
+  4.2.0-gompi-2024a: {}
+FCM:
+  2.3.1-GCCcore-11.3.0: {}
+  2021.05.0-GCCcore-11.3.0: {}
+FFTW:
+  3.3.10-GCC-11.3.0: {}
+  3.3.10-GCC-12.3.0: {}
+  3.3.10-GCC-13.3.0: {}
+  3.3.10-gompi-2021a: {}
+  3.3.9-gompi-2021a: {}
+FFTW.MPI:
+  3.3.10-gompi-2022a: {}
+  3.3.10-gompi-2023a: {}
+  3.3.10-gompi-2024a: {}
+FFmpeg:
+  4.3.2-GCCcore-10.3.0: {}
+  4.4.2-GCCcore-11.3.0: {}
+  5.0.1-GCCcore-11.3.0: {}
+  6.0-GCCcore-12.3.0: {}
+  6.0-GCCcore-13.3.0: {}
+  6.1-GCCcore-13.3.0: {}
+  6.1.2-GCCcore-13.3.0: {}
+  7.0.2-GCCcore-13.3.0: {}
+FLAC:
+  1.3.3-GCCcore-10.3.0: {}
+  1.3.4-GCCcore-11.3.0: {}
+  1.4.2-GCCcore-12.3.0: {}
+  1.4.3-GCCcore-13.3.0: {}
+FLINT:
+  3.0.1-gfbf-2023a: {}
+  3.1.2-gfbf-2024a: {}
+FLTK:
+  1.3.6-GCCcore-10.3.0: {}
+  1.3.8-GCCcore-11.3.0: {}
+  1.3.8-GCCcore-12.3.0: {}
+FLUPS:
+  20220614-foss-2021a: {}
+FMS:
+  2022.04-iimpi-2022a: {}
+FORTRAN:
+  C: {}
+FUSE:
+  2.9.7-GCCcore-12.3.0: {}
+  2.9.7-GCCcore-13.3.0: {}
+  3.14.1-GCCcore-12.3.0: {}
+  3.16.2-GCCcore-12.3.0: {}
+  3.16.2-GCCcore-13.3.0: {}
+Fiona:
+  1.10.1-foss-2024a: {}
+  1.8.20-foss-2021a: {}
+Flask:
+  2.3.3-GCCcore-12.3.0: {}
+  3.0.3-GCCcore-13.3.0: {}
+FlexiBLAS:
+  3.0.4-GCC-10.3.0: {}
+  3.2.0-GCC-11.3.0: {}
+  3.3.1-GCC-12.3.0: {}
+  3.4.4-GCC-13.3.0: {}
+Foo:
+  '11.1': {}
+Fortran:
+  Cython: {}
+FriBidi:
+  1.0.10-GCCcore-10.3.0: {}
+  1.0.12-GCCcore-11.3.0: {}
+  1.0.12-GCCcore-12.3.0: {}
+  1.0.15-GCCcore-13.3.0: {}
+GB:
+  s: {}
+GCC:
+  10.3.0: {}
+  11.3.0: {}
+  12.3.0: {}
+  13.3.0: {}
+  9.3.0: {}
+GCCcore:
+  10.2.0: {}
+  10.3.0: {}
+  11.3.0: {}
+  12.3.0: {}
+  13.3.0: {}
+  9.3.0: {}
+GDAL:
+  3.3.0-foss-2021a: {}
+  3.5.1-foss-2022a: {}
+  3.7.1-foss-2023a: {}
+  3.9.3-foss-2024a: {}
+GDB:
+  10.2-GCCcore-10.3.0: {}
+  11.1-GCCcore-11.3.0: {}
+  13.2-GCCcore-12.3.0: {}
+  14.2-GCCcore-13.3.0: {}
+GDRCopy:
+  2.2-GCCcore-10.3.0: {}
+  2.3-GCCcore-10.3.0: {}
+  2.3-GCCcore-11.3.0: {}
+  2.3.1-GCCcore-12.3.0: {}
+  2.4.1-GCCcore-13.3.0: {}
+GEOS:
+  3.10.3-GCC-11.3.0: {}
+  3.12.0-GCC-12.3.0: {}
+  3.12.2-GCC-13.3.0: {}
+  3.13.0-GCC-13.3.0: {}
+  3.9.1-GCC-10.3.0: {}
+GL2PS:
+  1.4.2-GCCcore-10.3.0: {}
+GLM:
+  0.9.9.8-GCCcore-12.3.0: {}
+  1.0.1-GCCcore-13.3.0: {}
+GLPK:
+  5.0-GCCcore-10.3.0: {}
+  5.0-GCCcore-11.3.0: {}
+  5.0-GCCcore-12.3.0: {}
+  5.0-GCCcore-13.3.0: {}
+GLib:
+  2.68.2-GCCcore-10.3.0: {}
+  2.72.1-GCCcore-11.3.0: {}
+  2.77.1-GCCcore-12.3.0: {}
+  2.80.4-GCCcore-13.3.0: {}
+GMP:
+  6.2.1-GCCcore-10.3.0: {}
+  6.2.1-GCCcore-11.3.0: {}
+  6.2.1-GCCcore-12.3.0: {}
+  6.3.0-GCCcore-13.3.0: {}
+  MPIR: {}
+GObject-Introspection:
+  1.68.0-GCCcore-10.3.0: {}
+  1.72.0-GCCcore-11.3.0: {}
+  1.76.1-GCCcore-12.3.0: {}
+  1.80.1-GCCcore-13.3.0: {}
+GPU:
+  TPU: {}
+GROMACS:
+  2019.6-foss-2021a: {}
+  2019.6-foss-2021a-CUDA-11.3.1: {}
+  2021.3-foss-2021a: {}
+  2021.3-foss-2021a-CUDA-11.3.1: {}
+  2021.3-foss-2021a-CUDA-11.3.1-PLUMED-2.7.2: {}
+  2022.3-foss-2022a: {}
+  2022.3-foss-2022a-CUDA-11.7.0: {}
+  2022.5-foss-2023a-CUDA-12.2.0-PLUMED-2.9.0: {}
+  2023.3-foss-2023a-CUDA-12.1.1: {}
+  2023.3-foss-2023a-CUDA-12.1.1-PLUMED-2.9.0: {}
+GSL:
+  2.7-GCC-10.3.0: {}
+  2.7-GCC-11.3.0: {}
+  2.7-GCC-12.3.0: {}
+  2.8-GCC-13.3.0: {}
+GST-plugins-bad:
+  1.22.5-GCC-12.3.0: {}
+GST-plugins-base:
+  1.18.4-GCC-10.3.0: {}
+  1.20.2-GCC-11.3.0: {}
+  1.22.5-GCC-12.3.0: {}
+GStreamer:
+  1.18.4-GCC-10.3.0: {}
+  1.20.2-GCC-11.3.0: {}
+  1.22.5-GCC-12.3.0: {}
+GTK2:
+  2.24.33-GCCcore-11.3.0: {}
+  2.24.33-GCCcore-12.3.0: {}
+GTK3:
+  3.24.29-GCCcore-10.3.0: {}
+  3.24.33-GCCcore-11.3.0: {}
+  3.24.37-GCCcore-12.3.0: {}
+  3.24.43-GCCcore-13.3.0: {}
+GTK4:
+  4.13.1-GCC-12.3.0: {}
+GTS:
+  0.7.6-GCCcore-10.3.0: {}
+  0.7.6-GCCcore-11.3.0: {}
+  0.7.6-GCCcore-12.3.0: {}
+  0.7.6-GCCcore-13.3.0: {}
+Gdk-Pixbuf:
+  2.42.10-GCCcore-12.3.0: {}
+  2.42.11-GCCcore-13.3.0: {}
+  2.42.6-GCCcore-10.3.0: {}
+  2.42.8-GCCcore-11.3.0: {}
+Ghostscript:
+  10.01.2-GCCcore-12.3.0: {}
+  10.03.1-GCCcore-13.3.0: {}
+  9.54.0-GCCcore-10.3.0: {}
+  9.56.1-GCCcore-11.3.0: {}
+GitPython:
+  3.1.40-GCCcore-12.3.0: {}
+  3.1.43-GCCcore-13.3.0: {}
+GlobalArrays:
+  5.8.1-foss-2021a: {}
+  5.8.1-foss-2022a: {}
+  5.8.2-foss-2023a: {}
+  5.8.2-intel-2023a: {}
+Go:
+  1.16.6: {}
+  1.18.1: {}
+  1.19.1: {}
+  1.20.4: {}
+  1.21.2: {}
+  1.22.1: {}
+  1.23.6: {}
+Graphene:
+  1.10.8-GCCcore-11.3.0: {}
+  1.10.8-GCCcore-12.3.0: {}
+  1.10.8-GCCcore-13.3.0: {}
+Graphviz:
+  12.2.0-GCCcore-13.3.0: {}
+  2.47.2-GCCcore-10.3.0: {}
+  5.0.1-GCCcore-11.3.0: {}
+  8.1.0-GCCcore-12.3.0: {}
+Greenlet:
+  3.1.0-GCCcore-13.3.0: {}
+Guile:
+  3.0.8-GCCcore-11.3.0: {}
+H.264:
+  MPEG-4: {}
+H3LPR:
+  20220608-foss-2021a: {}
+HCOLL:
+  4.7.3202: {}
+  4.7.3208: {}
+HDF:
+  4.2.15-GCCcore-10.3.0: {}
+  4.2.15-GCCcore-11.3.0: {}
+  4.2.16-2-GCCcore-12.3.0: {}
+  4.2.16-2-GCCcore-13.3.0: {}
+  4.2.16-GCCcore-12.3.0: {}
+  4.3.0-GCCcore-13.3.0: {}
+HDF-EOS:
+  2.20-GCCcore-12.3.0: {}
+HDF-EOS5:
+  1.16-gompi-2023a: {}
+HDF5:
+  1.10.7-gompi-2021a: {}
+  1.10.7-gompi-2023a: {}
+  1.10.7-iimpi-2021a: {}
+  1.12.1-gompi-2021a: {}
+  1.12.1-gompi-2021a-serial: {}
+  1.12.2-gompi-2022a: {}
+  1.12.2-gompi-2022a-serial: {}
+  1.12.2-iimpi-2022a: {}
+  1.12.2-nvompi-2022.07: {}
+  1.14.0-gompi-2023a: {}
+  1.14.0-iimpi-2023a: {}
+  1.14.3-gompi-2024a: {}
+  1.14.3-iimpi-2024a: {}
+  1.14.5-gompi-2024a: {}
+HH-suite:
+  3.3.0-gompi-2021a: {}
+  3.3.0-gompi-2022a: {}
+  3.3.0-gompi-2023a: {}
+HPCG:
+  3.1-foss-2021a: {}
+HPCX:
+  2.10-GCCcore-10.3.0: {}
+  2.12-GCCcore-11.3.0: {}
+  2.16-GCCcore-12.3.0: {}
+  2.9.0: {}
+HPL:
+  2.3-foss-2021a: {}
+  2.3-foss-2024a: {}
+  2.3-intel-2024a: {}
+HPX:
+  1.10.0-foss-2024a: {}
+HarfBuzz:
+  2.8.1-GCCcore-10.3.0: {}
+  4.2.1-GCCcore-11.3.0: {}
+  5.3.1-GCCcore-12.3.0: {}
+  9.0.0-GCCcore-13.3.0: {}
+Highway:
+  1.0.4-GCCcore-12.3.0: {}
+  1.2.0-GCCcore-13.3.0: {}
+Horovod:
+  0.22.1-foss-2021a-CUDA-11.3.1-PyTorch-1.9.0: {}
+  0.22.1-foss-2021a-CUDA-11.3.1-TensorFlow-2.6.0: {}
+  0.23.0-foss-2021a-CUDA-11.3.1-PyTorch-1.10.0: {}
+  0.26.0-foss-2022a-CUDA-11.7.0-PyTorch-1.12.0: {}
+  0.26.0-foss-2022a-CUDA-11.7.0-TensorFlow-2.9.1: {}
+  0.28.1-foss-2023a-CUDA-12.1.1-PyTorch-2.1.2: {}
+  0.28.1-foss-2024a-CUDA-12.6.0-PyTorch-2.3.0: {}
+Hypre:
+  2.21.0-foss-2021a: {}
+  2.25.0-foss-2022a: {}
+  2.25.0-intel-2022a: {}
+  2.28.0-foss-2023a: {}
+  2.29.0-foss-2023a: {}
+  2.31.0-foss-2024a: {}
+I:
+  O: {}
+ICU:
+  69.1-GCCcore-10.3.0: {}
+  71.1-GCCcore-11.3.0: {}
+  71.1-GCCcore-12.3.0: {}
+  73.1-GCCcore-12.3.0: {}
+  73.2-GCCcore-12.3.0: {}
+  74.1-GCCcore-13.3.0: {}
+  75.1-GCCcore-13.3.0: {}
+IJulia:
+  1.24.0-Julia-1.10.0: {}
+  1.26.0-Julia-1.11.0: {}
+INSTA:
+  master-foss-2022a-CUDA-11.7.0: {}
+IOR:
+  3.3.0-gompi-2021a: {}
+  3.3.0-gompi-2022a: {}
+  3.3.0-gompi-2023a: {}
+  4.0.0-gompi-2024a: {}
+IPython:
+  7.25.0-GCCcore-10.3.0: {}
+  8.14.0-GCCcore-12.3.0: {}
+  8.27.0-GCCcore-13.3.0: {}
+  8.5.0-GCCcore-11.3.0: {}
+IRkernel:
+  1.3.2-foss-2023a-R-4.3.2: {}
+  1.3.2-foss-2024a-R-4.4.2: {}
+ISL:
+  0.23-GCCcore-10.3.0: {}
+  0.24-GCCcore-11.3.0: {}
+  0.26-GCCcore-12.3.0: {}
+  0.26-GCCcore-13.3.0: {}
+ISO:
+  IEC: {}
+ImageMagick:
+  7.0.11-14-GCCcore-10.3.0: {}
+  7.1.0-37-GCCcore-11.3.0: {}
+  7.1.1-15-GCCcore-12.3.0: {}
+  7.1.1-38-GCCcore-13.3.0: {}
+Imath:
+  3.1.11-GCCcore-13.3.0: {}
+  3.1.3-GCCcore-10.3.0: {}
+  3.1.7-GCCcore-12.3.0: {}
+Inspector:
+  2021.4.0: {}
+  2022.0.0: {}
+  2022.1.0: {}
+  2023.2.0: {}
+  2024.2.0: {}
+JasPer:
+  1.900.1-foss-2023a: {}
+  2.0.28-GCCcore-10.3.0: {}
+  2.0.33-GCCcore-11.3.0: {}
+  2.0.33-GCCcore-12.3.0: {}
+  4.0.0-GCCcore-12.3.0: {}
+  4.2.4-GCCcore-13.3.0: {}
+Java:
+  11.0.16: {}
+  11.0.18: {}
+  11.0.2: {}
+  11.0.20: {}
+  17.0.2: {}
+  17.0.6: {}
+  21.0.2: {}
+  21.0.5: {}
+JsonCpp:
+  1.9.4-GCCcore-10.3.0: {}
+  1.9.5-GCCcore-11.3.0: {}
+  1.9.5-GCCcore-12.3.0: {}
+  1.9.5-GCCcore-13.3.0: {}
+Judy:
+  1.0.5-GCCcore-13.3.0: {}
+Julia:
+  1.10.0-linux-: {}
+  1.11.0-linux-: {}
+  1.6.2-linux-: {}
+  1.7.2-linux-: {}
+  1.8.2-linux-: {}
+  1.9.3-linux-: {}
+JupyterHub:
+  2.3.1-GCCcore-10.3.0: {}
+  2.3.1-GCCcore-11.3.0: {}
+  4.0.2-GCCcore-12.3.0: {}
+  5.2.0-GCCcore-13.3.0: {}
+JupyterLab:
+  3.0.16-GCCcore-10.3.0: {}
+  3.2.8-GCCcore-10.3.0: {}
+  3.2.8-GCCcore-11.3.0: {}
+  3.5.0-GCCcore-11.3.0: {}
+  4.0.5-GCCcore-12.3.0: {}
+  4.0.9-GCCcore-12.3.0: {}
+  4.2.5-GCCcore-13.3.0: {}
+JupyterNotebook:
+  6.5.6-GCCcore-12.3.0: {}
+  7.0.2-GCCcore-12.3.0: {}
+  7.2.3-GCCcore-13.3.0: {}
+KaHIP:
+  3.14-gompi-2023a: {}
+  3.16-gompi-2023a: {}
+Keras:
+  2.6.0-foss-2021a: {}
+  2.6.0-foss-2021a-CUDA-11.3.1: {}
+  2.9.0-foss-2022a: {}
+Kokkos:
+  3.4.01-GCC-10.3.0: {}
+  3.6.00-GCC-10.3.0: {}
+  3.6.01-GCC-11.3.0: {}
+  4.1.0-GCC-12.3.0: {}
+  4.4.0-GCC-12.3.0: {}
+  4.4.0-GCC-12.3.0-CUDA-12.2.0: {}
+  4.4.1-GCC-13.3.0: {}
+  4.4.1-GCC-13.3.0-CUDA-12.6.0: {}
+LAME:
+  3.100-GCCcore-10.3.0: {}
+  3.100-GCCcore-11.3.0: {}
+  3.100-GCCcore-12.3.0: {}
+  3.100-GCCcore-13.3.0: {}
+LAMMPS:
+  23Jun2022-foss-2021a-kokkos-CUDA-11.3.1: {}
+  23Jun2022-foss-2022a-kokkos: {}
+  23Jun2022-foss-2022a-kokkos-CUDA-11.7.0: {}
+LAPACK:
+  3.10.1-GCC-11.3.0: {}
+LERC:
+  4.0.0-GCCcore-12.3.0: {}
+  4.0.0-GCCcore-13.3.0: {}
+LLVM:
+  11.1.0-GCCcore-10.3.0: {}
+  14.0.3-GCCcore-11.3.0: {}
+  16.0.6-GCCcore-12.3.0: {}
+  16.0.6-GCCcore-12.3.0-python-3.10.8: {}
+  18.1.8-GCCcore-13.3.0: {}
+LMDB:
+  0.9.28-GCCcore-10.3.0: {}
+  0.9.29-GCCcore-11.3.0: {}
+LZO:
+  2.10-GCCcore-13.3.0: {}
+LibTIFF:
+  4.2.0-GCCcore-10.3.0: {}
+  4.3.0-GCCcore-11.3.0: {}
+  4.5.0-GCCcore-12.3.0: {}
+  4.6.0-GCCcore-13.3.0: {}
+Libint:
+  2.6.0-GCC-10.3.0-lmax-6-cp2k: {}
+  2.7.2-GCC-11.3.0-lmax-6-cp2k: {}
+  2.7.2-GCC-12.3.0-lmax-6-cp2k: {}
+  2.7.2-GCC-13.3.0-lmax-6-cp2k: {}
+LightGBM:
+  4.5.0-foss-2024a-CUDA-12.6.0: {}
+Linaro-Forge:
+  23.0.3-GCC-12.3.0: {}
+  24.0.2-GCC-12.3.0: {}
+  24.0.5-GCC-13.3.0: {}
+  24.0.6: {}
+  24.0.6-GCC-11.3.0: {}
+  24.0.6-GCC-12.3.0: {}
+  24.0.6-GCC-13.3.0: {}
+  24.1.1-GCC-12.3.0: {}
+LittleCMS:
+  2.12-GCCcore-10.3.0: {}
+  2.13.1-GCCcore-11.3.0: {}
+  2.15-GCCcore-12.3.0: {}
+  2.16-GCCcore-13.3.0: {}
+Lua:
+  5.4.3-GCCcore-10.3.0: {}
+  5.4.4-GCCcore-11.3.0: {}
+  5.4.6-GCCcore-12.3.0: {}
+  5.4.7-GCCcore-13.3.0: {}
+M4:
+  1.4.18: {}
+  1.4.18-GCCcore-10.2.0: {}
+  1.4.18-GCCcore-10.3.0: {}
+  1.4.18-GCCcore-9.3.0: {}
+  1.4.19: {}
+  1.4.19-GCCcore-10.3.0: {}
+  1.4.19-GCCcore-11.3.0: {}
+  1.4.19-GCCcore-12.3.0: {}
+  1.4.19-GCCcore-13.3.0: {}
+MAQAO:
+  2.20.1: {}
+MATIO:
+  1.5.26-GCCcore-12.3.0: {}
+MB:
+  s: {}
+MBROLA:
+  3.3-GCCcore-12.3.0-voices-20200330: {}
+MCR:
+  R2021b: {}
+  R2022a: {}
+  R2022a.1: {}
+  R2023a: {}
+  R2023b: {}
+  R2024a: {}
+  R2024a.4: {}
+MDAnalysis:
+  2.0.0-foss-2021a: {}
+MDI:
+  1.4.26-gompi-2023a: {}
+  1.4.35-gompi-2024a: {}
+METIS:
+  5.1.0-GCCcore-10.3.0: {}
+  5.1.0-GCCcore-11.3.0: {}
+  5.1.0-GCCcore-12.3.0: {}
+  5.1.0-GCCcore-13.3.0: {}
+MLflow:
+  2.17.2-gfbf-2024a: {}
+MPC:
+  1.2.1-GCCcore-10.3.0: {}
+  1.2.1-GCCcore-11.3.0: {}
+  1.3.1-GCCcore-12.3.0: {}
+  1.3.1-GCCcore-13.3.0: {}
+MPFR:
+  4.1.0-GCCcore-10.3.0: {}
+  4.1.0-GCCcore-11.3.0: {}
+  4.2.0-GCCcore-12.3.0: {}
+  4.2.1-GCCcore-13.3.0: {}
+MPICH:
+  3.4.3-GCC-10.3.0: {}
+  4.0.3-GCC-11.3.0: {}
+  4.1rc3-GCC-11.3.0: {}
+  4.2.2-GCC-13.3.0: {}
+MUMPS:
+  5.4.0-foss-2021a-metis: {}
+  5.5.0-foss-2022a-metis: {}
+  5.5.0-intel-2022a-metis: {}
+  5.5.1-foss-2023a-metis: {}
+  5.6.1-foss-2023a-metis: {}
+  5.7.3-foss-2024a-metis: {}
+Mako:
+  1.1.4-GCCcore-10.3.0: {}
+  1.2.0-GCCcore-11.3.0: {}
+  1.2.4-GCCcore-12.3.0: {}
+  1.3.5-GCCcore-13.3.0: {}
+MariaDB:
+  11.7.0-GCC-13.3.0: {}
+Markdown:
+  3.7-GCCcore-13.3.0: {}
+Mercurial:
+  5.8-GCCcore-10.3.0: {}
+Mesa:
+  21.1.1-GCCcore-10.3.0: {}
+  22.0.3-GCCcore-11.3.0: {}
+  23.1.4-GCCcore-12.3.0: {}
+  24.1.3-GCCcore-13.3.0: {}
+Meson:
+  0.58.0-GCCcore-10.3.0: {}
+  0.62.1-GCCcore-11.3.0: {}
+  0.64.0-GCCcore-11.3.0: {}
+  1.1.1-GCCcore-12.3.0: {}
+  1.1.1-GCCcore-12.3.0-python-3.10.8: {}
+  1.4.0-GCCcore-13.3.0: {}
+  1.4.0-GCCcore-13.3.0-Python-3.11.10: {}
+Mesquite:
+  2.3.0-GCCcore-10.3.0: {}
+  2.3.0-GCCcore-13.3.0: {}
+Molpro:
+  mpp-2015.1.38.: {}
+NAMD:
+  2.14-foss-2021a-mpi: {}
+  2.14-foss-2021a-ucx-CUDA-11.3.1: {}
+  2.14-foss-2022a-mpi: {}
+  2.14-foss-2022a-ucx-CUDA-11.7.0: {}
+  2.14-foss-2023a-mpi: {}
+  3.0-foss-2024a-mpi: {}
+  3.0b5-multicore-AVX512-bin: {}
+  3.0b5-multicore-CUDA-bin: {}
+  3.0b5-multicore-bin: {}
+NASM:
+  2.15.05-GCCcore-10.3.0: {}
+  2.15.05-GCCcore-11.3.0: {}
+  2.16.01-GCCcore-12.3.0: {}
+  2.16.03-GCCcore-13.3.0: {}
+NCCL:
+  2.10.3-GCCcore-10.3.0-CUDA-11.3.1: {}
+  2.12.10-GCCcore-10.3.0-CUDA-11.3.1: {}
+  2.12.12-GCCcore-11.3.0-CUDA-11.7.0: {}
+  2.12.12-GCCcore-11.3.0-CUDA-11.7.1: {}
+  2.18.3-GCCcore-12.3.0-CUDA-11.7.0: {}
+  2.18.3-GCCcore-12.3.0-CUDA-12.1.1: {}
+  2.18.3-GCCcore-12.3.0-CUDA-12.2.0: {}
+  2.18.3-GCCcore-12.3.0-CUDA-12.3.2: {}
+  2.18.3-GCCcore-13.3.0-CUDA-12.6.0: {}
+  2.22.3-GCCcore-13.3.0-CUDA-12.6.0: {}
+NCEPLIBS:
+  1.4.0-iimpi-2022a: {}
+NCL:
+  6.6.2-foss-2023a: {}
+NCO:
+  5.0.1-foss-2021a: {}
+  5.1.3-foss-2022a: {}
+  5.1.3-foss-2023a: {}
+NECI:
+  20220711-foss-2023a: {}
+NLTK:
+  3.8.1-foss-2023a: {}
+NLopt:
+  2.7.0-GCCcore-10.3.0: {}
+  2.7.1-GCCcore-11.3.0: {}
+  2.7.1-GCCcore-12.3.0: {}
+  2.7.1-GCCcore-13.3.0: {}
+NSPR:
+  4.30-GCCcore-10.3.0: {}
+  4.34-GCCcore-11.3.0: {}
+  4.35-GCCcore-12.3.0: {}
+  4.35-GCCcore-13.3.0: {}
+  4.9-GCCcore-13.3.0: {}
+NSS:
+  3.104-GCCcore-13.3.0: {}
+  3.65-GCCcore-10.3.0: {}
+  3.79-GCCcore-11.3.0: {}
+  3.89.1-GCCcore-12.3.0: {}
+NTL:
+  11.5.1-GCC-12.3.0: {}
+  11.5.1-GCC-13.3.0: {}
+NVHPC:
+  '21.11': {}
+  '21.9': {}
+  '22.3': {}
+  '22.7': {}
+  22.7-CUDA-11.7.0: {}
+  '23.7': {}
+  23.7-CUDA-11.7.0: {}
+  23.7-CUDA-12.2.0: {}
+  24.9-CUDA-12.6.0: {}
+NVSHMEM:
+  2.4.1-gompi-2021a-CUDA-11.3.1: {}
+  2.6.0-gompi-2022a-CUDA-11.7.0: {}
+  2.6.0-gompi-2022a-CUDA-11.7.1: {}
+  2.9.0-gompi-2023a-CUDA-12.2.0: {}
+  3.0.6-gompi-2024a-CUDA-12.6.0: {}
+NWChem:
+  7.0.2-foss-2021a: {}
+  7.0.2-foss-2022a: {}
+  7.2.2-foss-2023a: {}
+  7.2.2-intel-2023a: {}
+Ninja:
+  1.10.2-GCCcore-10.3.0: {}
+  1.10.2-GCCcore-11.3.0: {}
+  1.11.1-GCCcore-12.3.0: {}
+  1.11.1-GCCcore-12.3.0-python-3.10.8: {}
+  1.12.1-GCCcore-13.3.0: {}
+  1.12.1-GCCcore-13.3.0-Python-3.11.10: {}
+Nsight-Compute:
+  2021.2.2: {}
+  2022.4.0: {}
+  2023.2.1: {}
+  2024.3.2.3: {}
+Nsight-Systems:
+  2021.4.1: {}
+  2022.4.1: {}
+  2023.2.1: {}
+  2024.6.1: {}
+OCaml:
+  5.1.1-GCC-12.3.0: {}
+  5.1.1-GCC-13.3.0: {}
+ONNX:
+  1.13.0-foss-2022a: {}
+OPARI2:
+  2.0.6-GCCcore-10.3.0: {}
+  2.0.6-GCCcore-11.3.0: {}
+  2.0.7-GCCcore-11.3.0: {}
+  2.0.7-GCCcore-12.3.0: {}
+  2.0.8-GCCcore-13.3.0: {}
+ORCA:
+  5.0.3-gompi-2021a: {}
+  5.0.3-gompi-2022a: {}
+  5.0.4-gompi-2023a: {}
+  6.0.0-gompi-2024a: {}
+OS:
+  '2': {}
+OSU-Micro-Benchmarks:
+  5.7.1-gompi-2021a: {}
+  5.7.1-gompi-2021a-CUDA-11.3.1: {}
+  5.9-gmpich-2021a: {}
+  5.9-gompi-2021a: {}
+  5.9-gompi-2021a-CUDA-11.3.1: {}
+  6.0-gompi-2022a: {}
+  6.0-gompi-2022a-CUDA-11.7.0: {}
+  6.0-gompi-2022a-prte: {}
+  6.0-iimpi-2022a: {}
+OTF2:
+  2.3-GCCcore-10.3.0: {}
+  2.3-GCCcore-11.3.0: {}
+  3.0.2-GCCcore-11.3.0: {}
+  3.0.3-GCCcore-12.3.0: {}
+  3.0.3-GCCcore-13.3.0: {}
+OVITO:
+  3.5.4-foss-2021a: {}
+Ogg:
+  Vorbis: {}
+OpenBLAS:
+  0.3.15-GCC-10.3.0: {}
+  0.3.20-GCC-11.3.0: {}
+  0.3.23-GCC-12.3.0: {}
+  0.3.27-GCC-13.3.0: {}
+OpenCV:
+  4.5.3-foss-2021a-CUDA-11.3.1-contrib: {}
+  4.5.3-foss-2021a-contrib: {}
+  4.6.0-foss-2022a-CUDA-11.7.0-contrib: {}
+  4.6.0-foss-2022a-contrib: {}
+  4.8.1-foss-2023a-CUDA-12.1.1-contrib: {}
+  4.8.1-foss-2023a-CUDA-12.2.0-contrib: {}
+  4.8.1-foss-2023a-contrib: {}
+OpenEXR:
+  3.0.1-GCCcore-10.3.0: {}
+  3.1.2-GCCcore-10.3.0: {}
+  3.1.5-GCCcore-11.3.0: {}
+  3.1.7-GCCcore-12.3.0: {}
+  3.2.4-GCCcore-13.3.0: {}
+OpenFOAM:
+  10-foss-2023a: {}
+  12-foss-2024a: {}
+  8-foss-2021a: {}
+  9-foss-2021a: {}
+  9-foss-2022a: {}
+  v2106-foss-2021a: {}
+  v2206-foss-2022a: {}
+  v2306-foss-2023a: {}
+  v2312-foss-2023a: {}
+OpenFOAM-Extend:
+  4.1-20201102-foss-2021a-Python-2.7.18: {}
+OpenImageIO:
+  2.3.8.0-gompi-2021a: {}
+OpenJPEG:
+  2.5.0-GCCcore-12.3.0: {}
+  2.5.2-GCCcore-13.3.0: {}
+OpenMPI:
+  4.1.1-GCC-10.3.0: {}
+  4.1.3-GCC-10.3.0: {}
+  4.1.3-NVHPC-22.3: {}
+  4.1.4-GCC-10.3.0: {}
+  4.1.4-GCC-10.3.0-cudafix: {}
+  4.1.4-GCC-10.3.0-prte: {}
+  4.1.4-GCC-11.3.0: {}
+  4.1.4-GCC-11.3.0-prte: {}
+  4.1.4-NVHPC-22.3: {}
+  4.1.4-NVHPC-22.3-CUDA-11.3.1: {}
+  4.1.4-NVHPC-22.7: {}
+  4.1.4-NVHPC-22.7-CUDA-11.7.0: {}
+  4.1.5-GCC-12.3.0: {}
+OpenPGM:
+  5.2.122-GCCcore-10.3.0: {}
+  5.2.122-GCCcore-11.3.0: {}
+  5.2.122-GCCcore-12.3.0: {}
+  5.2.122-GCCcore-13.3.0: {}
+OpenSSL:
+  '1.1': {}
+  '3': {}
+OptiX:
+  7.7.0: {}
+PAPI:
+  6.0.0.1-GCCcore-10.3.0: {}
+  6.0.0.1-GCCcore-11.3.0: {}
+  7.0.0-GCCcore-11.3.0: {}
+  7.0.1-GCCcore-12.3.0: {}
+  7.1.0-GCCcore-13.3.0: {}
+PCRE:
+  8.44-GCCcore-10.3.0: {}
+  8.45-GCCcore-11.3.0: {}
+  8.45-GCCcore-12.3.0: {}
+  8.45-GCCcore-13.3.0: {}
+PCRE2:
+  10.36-GCCcore-10.3.0: {}
+  10.40-GCCcore-11.3.0: {}
+  10.42-GCCcore-12.3.0: {}
+  10.43-GCCcore-13.3.0: {}
+PDM:
+  2.18.2-GCCcore-13.3.0: {}
+PDT:
+  3.25.1-GCCcore-10.3.0: {}
+  3.25.1-GCCcore-11.3.0: {}
+  3.25.1-GCCcore-12.3.0: {}
+  3.25.2-GCCcore-13.3.0: {}
+PETSc:
+  3.15.4-foss-2021a: {}
+  3.17.4-foss-2022a: {}
+  3.19.4-foss-2023a: {}
+  3.20.3-foss-2023a: {}
+  3.22.0-foss-2024a: {}
+PHYLIP:
+  3.697-GCC-9.3.0: {}
+PLUMED:
+  2.6.3-foss-2021a: {}
+  2.7.1-foss-2021a: {}
+  2.7.2-foss-2021a: {}
+  2.8.0-foss-2022a: {}
+  2.9.0-foss-2023a: {}
+  2.9.2-foss-2024a: {}
+PMIx:
+  3.2.3-GCCcore-10.3.0: {}
+  4.2.2-GCCcore-11.3.0: {}
+  4.2.6-GCCcore-12.3.0: {}
+  4.2.6-GCCcore-13.3.0: {}
+  5.0.0rc1-GCCcore-11.3.0: {}
+  5.0.2-GCCcore-13.3.0: {}
+POV-Ray:
+  3.7.0.10-GCC-10.3.0: {}
+  3.7.0.10-GCC-11.3.0: {}
+  3.7.0.10-GCC-12.3.0: {}
+PROJ:
+  8.0.1-GCCcore-10.3.0: {}
+  9.0.0-GCCcore-11.3.0: {}
+  9.2.0-GCCcore-12.3.0: {}
+  9.4.1-GCCcore-13.3.0: {}
+PRRTE:
+  3.0.5-GCCcore-13.3.0: {}
+Pandoc:
+  '2.13': {}
+Pango:
+  1.48.5-GCCcore-10.3.0: {}
+  1.50.14-GCCcore-12.3.0: {}
+  1.50.7-GCCcore-11.3.0: {}
+  1.54.0-GCCcore-13.3.0: {}
+ParMETIS:
+  4.0.3-gompi-2021a: {}
+  4.0.3-gompi-2022a: {}
+  4.0.3-gompi-2023a: {}
+  4.0.3-gompi-2024a: {}
+  4.0.3-iimpi-2023a: {}
+ParMGridGen:
+  1.0-gompi-2021a: {}
+  1.0-gompi-2024a: {}
+ParaStationMPI:
+  5.4.11-1-GCC-10.3.0: {}
+  5.4.11-1-GCC-10.3.0-CUDA-11.3.1: {}
+ParaView:
+  5.10.1-foss-2022a-: {}
+  5.10.1-foss-2022a-mpi: {}
+  5.11.2-foss-2023a: {}
+  5.13.0-foss-2024a: {}
+  5.9.1-foss-2021a-mpi: {}
+ParallelIO:
+  2.5.10-iimpi-2022a: {}
+Paraver:
+  4.11.1-foss-2023a: {}
+  4.9.2-foss-2021a: {}
+PennyLane:
+  0.36.0-foss-2023a-cirq: {}
+  0.37.0-foss-2023a: {}
+  0.37.0-foss-2023a-qiskit: {}
+  0.38.0-foss-2024a: {}
+PennyLane-Lightning:
+  0.37.0-foss-2023a-: {}
+  0.37.0-foss-2023a-CUDA-12.2.0-: {}
+  0.37.0-foss-2023a-Kokkos: {}
+  0.37.0-foss-2023a-Kokkos-CUDA-12.2.0: {}
+  0.37.0-foss-2023a-Tensor: {}
+  0.38.0-foss-2024a-CUDA-12.6.0: {}
+  0.38.0-foss-2024a-Kokkos-CUDA-12.6.0: {}
+PennyLane-Lightning-GPU:
+  0.37.0-foss-2023a-CUDA-12.2.0: {}
+PennyLane-bundle:
+  0.37.0-foss-2023a-CUDA-12.2.0: {}
+Perl:
+  5.32.1-GCCcore-10.3.0: {}
+  5.32.1-GCCcore-10.3.0-minimal: {}
+  5.34.1-GCCcore-11.3.0: {}
+  5.36.1-GCCcore-12.3.0: {}
+  5.36.1-GCCcore-12.3.0-minimal: {}
+  5.38.0: {}
+  5.38.2-GCCcore-12.3.0: {}
+  5.38.2-GCCcore-13.3.0: {}
+Perl-bundle-CPAN:
+  5.36.1-GCCcore-12.3.0: {}
+  5.38.2-GCCcore-13.3.0: {}
+Pillow:
+  10.0.0-GCCcore-12.3.0: {}
+  10.0.0-GCCcore-12.3.0-python-3.10.8: {}
+  10.4.0-GCCcore-13.3.0: {}
+  8.2.0-GCCcore-10.3.0: {}
+  9.1.1-GCCcore-11.3.0: {}
+Pillow-SIMD:
+  10.4.0-GCCcore-13.3.0: {}
+  8.2.0-GCCcore-10.3.0: {}
+  9.2.0-GCCcore-11.3.0: {}
+  9.5.0-GCCcore-12.3.0: {}
+PnetCDF:
+  1.12.3-gompi-2022a: {}
+  1.12.3-gompi-2023a: {}
+  1.12.3-iimpi-2022a: {}
+  1.12.3-iimpi-2023a: {}
+PostgreSQL:
+  14.4-GCCcore-11.3.0: {}
+  16.1-GCCcore-12.3.0: {}
+  16.4-GCCcore-13.3.0: {}
+PyBerny:
+  0.6.3-foss-2023a: {}
+  0.6.3-foss-2024a: {}
+PyCUDA:
+  2022.2.2-foss-2022a-CUDA-11.7.0: {}
+  2023.1-foss-2023a-CUDA-12.2.0: {}
+  2025.1-gfbf-2024a-CUDA-12.6.0: {}
+PyCairo:
+  1.25.0-GCCcore-12.3.0: {}
+PyCheMPS2:
+  1.8.12-foss-2023a: {}
+  1.8.12-foss-2024a: {}
+PyGObject:
+  3.46.0-GCCcore-12.3.0: {}
+PyOpenCL:
+  2023.1.4-foss-2023a-ifpgasdk-20.4: {}
+  2023.1.4-foss-2024a-ifpgasdk-20.4: {}
+PyOpenGL:
+  3.1.9-GCCcore-13.3.0: {}
+PySCF:
+  1.7.6-foss-2021a: {}
+  2.0.1-foss-2022a: {}
+  2.4.0-foss-2023a: {}
+  2.8.0-foss-2024a: {}
+PySoX:
+  1.4.1-foss-2022a: {}
+PyTorch:
+  1.10.0-foss-2021a: {}
+  1.10.0-foss-2021a-CUDA-11.3.1: {}
+  1.12.0-foss-2022a: {}
+  1.12.0-foss-2022a-CUDA-11.7.0: {}
+  1.8.2-foss-2021a-CUDA-11.3.1: {}
+  1.9.0-foss-2021a: {}
+  1.9.0-foss-2021a-CUDA-11.3.1: {}
+  2.1.2-foss-2023a: {}
+  2.1.2-foss-2023a-CUDA-12.1.1: {}
+  2.3.0-foss-2024a-CUDA-12.6.0: {}
+PyTorch-bundle:
+  2.1.2-foss-2023a-CUDA-12.1.1: {}
+PyYAML:
+  5.4.1-GCCcore-10.3.0: {}
+  6.0-GCCcore-11.3.0: {}
+  6.0-GCCcore-12.3.0: {}
+  6.0.2-GCCcore-13.3.0: {}
+PyZMQ:
+  25.1.1-GCCcore-12.3.0: {}
+  26.2.0-GCCcore-13.3.0: {}
+PycURL:
+  7.45.2-GCCcore-12.3.0: {}
+  7.45.3-GCCcore-13.3.0: {}
+Pygments:
+  2.18.0-GCCcore-12.3.0: {}
+Python:
+  2.7.18-GCCcore-10.3.0-bare: {}
+  2.7.18-GCCcore-11.3.0-bare: {}
+  2.7.18-GCCcore-12.3.0: {}
+  3.10.4-GCCcore-11.3.0: {}
+  3.10.4-GCCcore-11.3.0-bare: {}
+  3.10.8-GCCcore-12.3.0: {}
+  3.11.10-GCCcore-13.3.0: {}
+  3.11.3-GCCcore-12.3.0: {}
+  3.11.3-GCCcore-13.3.0: {}
+  3.12.3-GCCcore-13.3.0: {}
+  3.9.5-GCCcore-10.3.0: {}
+  3.9.5-GCCcore-10.3.0-bare: {}
+  numpy: {}
+Python-bundle-PyPI:
+  2023.06-GCCcore-12.3.0: {}
+  2023.06-GCCcore-12.3.0-python-3.10.8: {}
+  2024.06-GCCcore-13.3.0: {}
+  2024.06-GCCcore-13.3.0-Python-3.11.10: {}
+QCFPGA:
+  0.0.1-foss-2023a-ifpgasdk-20.4: {}
+  0.0.1-foss-2024a-ifpgasdk-20.4: {}
+QM:
+  MM: {}
+QMCPACK:
+  3.11.0-foss-2021a: {}
+  3.14.0-foss-2022a: {}
+QUDA:
+  1.1.0-foss-2021a-CUDA-11.3.1: {}
+  1.1.0-foss-2022a-CUDA-11.7.0: {}
+  1.1.0-foss-2022a-CUDA-11.7.1: {}
+Qhull:
+  2020.2-GCCcore-10.3.0: {}
+  2020.2-GCCcore-11.3.0: {}
+  2020.2-GCCcore-12.3.0: {}
+  2020.2-GCCcore-13.3.0: {}
+Qiskit:
+  0.45.1-foss-2023a: {}
+  1.1.2-foss-2024a: {}
+  1.4.1-foss-2024a: {}
+QiskitAer:
+  0.15.1-foss-2024a-CUDA-12.6.0: {}
+Qt5:
+  5.15.10-GCCcore-12.3.0: {}
+  5.15.15-GCCcore-13.3.0: {}
+  5.15.2-GCCcore-10.3.0: {}
+  5.15.5-GCCcore-11.3.0: {}
+Qt6:
+  6.7.2-GCCcore-13.3.0: {}
+  6.8.0-GCCcore-13.3.0: {}
+QuTiP:
+  5.0.4-foss-2023a: {}
+Quandl:
+  3.7.0-foss-2023a: {}
+QuantumESPRESSO:
+  6.7-foss-2021a: {}
+  7.0-foss-2021a: {}
+  7.1-foss-2022a: {}
+  7.1-intel-2022a: {}
+  7.1-nvompic-2022a-NVHPC-22.7: {}
+  7.2-foss-2023a: {}
+  7.2-nvompic-2023a-NVHPC-23.7: {}
+  7.3.1-foss-2024a: {}
+  7.3.1-intel-2023a: {}
+R:
+  4.1.0-foss-2021a: {}
+  4.1.0-foss-2021a-bare: {}
+  4.2.1-foss-2022a: {}
+  4.2.1-foss-2022a-bare: {}
+  4.3.2-foss-2023a: {}
+  4.3.2-foss-2023a-bare: {}
+  4.3.2-gfbf-2023a: {}
+  4.4.1-gfbf-2024a: {}
+  4.4.2-gfbf-2024a: {}
+RAPIDS:
+  24.10-foss-2024a-CUDA-12.6.0: {}
+RE2:
+  2021-09-01-GCCcore-10.3.0: {}
+  2022-02-01-GCCcore-10.3.0: {}
+  2022-06-01-GCCcore-11.3.0: {}
+  2023-08-01-GCCcore-12.3.0: {}
+  2024-07-02-GCCcore-13.3.0: {}
+ROOT:
+  6.24.06-foss-2021a: {}
+RapidJSON:
+  1.1.0-20230928-GCCcore-12.3.0: {}
+  1.1.0-20240815-GCCcore-13.3.0: {}
+  1.1.0-GCCcore-10.3.0: {}
+  1.1.0-GCCcore-11.3.0: {}
+  1.1.0-GCCcore-12.3.0: {}
+ReFrame:
+  3.10.1: {}
+  3.11.0: {}
+  3.12.0: {}
+  3.8.2: {}
+  3.9.1: {}
+  3.9.2: {}
+  4.4.0: {}
+  4.6.2-GCCcore-13.3.0: {}
+  4.6.2-Python-3.6: {}
+  4.6.3-GCCcore-13.3.0: {}
+Rust:
+  1.52.1-GCCcore-10.3.0: {}
+  1.60.0-GCCcore-11.3.0: {}
+  1.70.0-GCCcore-12.3.0: {}
+  1.75.0-GCCcore-12.3.0: {}
+  1.76.0-GCCcore-13.3.0: {}
+  1.78.0-GCCcore-13.3.0: {}
+  1.79.0-GCCcore-13.3.0: {}
+  1.83.0-GCCcore-13.3.0: {}
+SAX:
+  DOM: {}
+SCOTCH:
+  6.1.0-gompi-2021a: {}
+  6.1.3-gompi-2022a: {}
+  7.0.1-gompi-2022a: {}
+  7.0.1-iimpi-2022a: {}
+  7.0.3-gompi-2023a: {}
+  7.0.5-gompi-2024a: {}
+SCons:
+  4.1.0.post1-GCCcore-10.3.0: {}
+  4.3.0-GCCcore-11.3.0: {}
+SDL2:
+  2.0.14-GCCcore-10.3.0: {}
+  2.0.22-GCCcore-11.3.0: {}
+  2.28.2-GCCcore-12.3.0: {}
+  2.30.6-GCCcore-13.3.0: {}
+SHMEM:
+  PGAS: {}
+SIONlib:
+  1.7.6-GCCcore-10.3.0-tools: {}
+  1.7.7-GCCcore-11.3.0-tools: {}
+  1.7.7-GCCcore-12.3.0-tools: {}
+  1.7.7-GCCcore-13.3.0-tools: {}
+SLEPc:
+  3.17.2-foss-2022a: {}
+SOCI:
+  4.0.3-GCC-11.3.0: {}
+  4.0.3-GCC-13.3.0: {}
+SQLAlchemy:
+  2.0.25-GCCcore-12.3.0: {}
+  2.0.35-GCCcore-13.3.0: {}
+SQLite:
+  3.35.4-GCCcore-10.3.0: {}
+  3.38.3-GCCcore-11.3.0: {}
+  3.42.0-GCCcore-12.3.0: {}
+  3.45.3-GCCcore-13.3.0: {}
+SWIG:
+  4.0.2-GCCcore-10.3.0: {}
+  4.0.2-GCCcore-11.3.0: {}
+  4.1.1-GCCcore-12.3.0: {}
+  4.2.1-GCCcore-13.3.0: {}
+Safetensors:
+  0.4.4-gfbf-2024a: {}
+ScaFaCoS:
+  1.0.1-foss-2021a: {}
+  1.0.1-foss-2022a: {}
+  1.0.4-foss-2023a: {}
+  1.0.4-foss-2024a: {}
+ScaLAPACK:
+  2.1.0-gompi-2021a-fb: {}
+  2.2.0-gompi-2022a-fb: {}
+  2.2.0-gompi-2023a-fb: {}
+  2.2.0-gompi-2024a-fb: {}
+  3.0-gompi-2021a-amd: {}
+Scalasca:
+  2.6-gompi-2021a: {}
+  2.6-gompi-2021a-CUDA-11.3.1: {}
+  2.6-gompi-2022a: {}
+  2.6-gompi-2022a-CUDA-11.7.0: {}
+  2.6.1-gompi-2022a: {}
+  2.6.1-gompi-2023a: {}
+  2.6.1-gompi-2023a-CUDA-12.2.0: {}
+  2.6.1-gompi-2024a: {}
+  2.6.1-gompi-2024a-CUDA-12.6.0: {}
+Scalene:
+  1.5.26-GCCcore-12.3.0: {}
+SciPy-bundle:
+  2021.05-foss-2021a: {}
+  2022.05-foss-2022a: {}
+  2022.05-intel-2022a: {}
+  2023.07-gfbf-2023a: {}
+  2023.07-gfbf-2023a-python-3.10.8: {}
+  2024.05-gfbf-2024a: {}
+  2024.05-gfbf-2024a-Python-3.11.10: {}
+Score-P:
+  7.1-gompi-2021a: {}
+  7.1-gompi-2021a-CUDA-11.3.1: {}
+  7.1-gompi-2022a: {}
+  7.1-gompi-2022a-CUDA-11.7.0: {}
+  8.0-gompi-2022a: {}
+  8.1-gompi-2023a: {}
+  8.1-gompi-2023a-CUDA-12.2.0: {}
+  8.4-gompi-2024a: {}
+  8.4-gompi-2024a-CUDA-12.6.0: {}
+Seaborn:
+  0.13.2-gfbf-2023a: {}
+  0.13.2-gfbf-2024a: {}
+SentencePiece:
+  0.1.96-GCC-10.3.0: {}
+  0.1.96-GCC-11.3.0: {}
+  0.2.0-GCC-12.3.0: {}
+Serf:
+  1.3.9-GCCcore-10.3.0: {}
+Shapely:
+  1.8a1-GCC-10.3.0: {}
+  2.0.1-gfbf-2023a-python-3.10.8: {}
+  2.0.6-gfbf-2024a: {}
+Singularity-CE:
+  3.10.2-GCCcore-11.3.0: {}
+  3.10.2-GCCcore-11.3.0-nimbix: {}
+  3.11.3-GCCcore-11.3.0-nimbix: {}
+  3.8.4: {}
+SoX:
+  14.4.2-GCCcore-11.3.0: {}
+  14.4.2-GCCcore-12.3.0: {}
+  14.4.2-GCCcore-13.3.0: {}
+Spack:
+  0.16.3: {}
+  0.17.1: {}
+  0.17.2: {}
+  0.18.0: {}
+  0.21.2: {}
+Spark:
+  3.1.2-foss-2021a: {}
+  3.1.2-foss-2021a-CUDA-11.3.1: {}
+  3.3.0-foss-2022a: {}
+  3.3.0-foss-2022a-CUDA-11.7.0: {}
+  3.5.0-foss-2023a: {}
+  3.5.3-foss-2024a: {}
+Subversion:
+  1.14.1-GCCcore-10.3.0: {}
+SuiteSparse:
+  5.10.1-foss-2021a-METIS-5.1.0: {}
+  5.10.1-intel-2022a-METIS-5.1.0: {}
+  5.13.0-foss-2022a-METIS-5.1.0: {}
+  5.13.0-foss-2023a-METIS-5.1.0: {}
+  7.1.0-foss-2023a: {}
+  7.8.2-foss-2024a: {}
+SymEngine:
+  0.11.2-GCC-12.3.0: {}
+  0.13.0-gfbf-2024a: {}
+SymEngine-python:
+  0.11.0-GCC-12.3.0: {}
+  0.13.0-gfbf-2024a: {}
+Szip:
+  2.1.1-GCCcore-10.3.0: {}
+  2.1.1-GCCcore-11.3.0: {}
+  2.1.1-GCCcore-12.3.0: {}
+  2.1.1-GCCcore-13.3.0: {}
+TCP:
+  IP: {}
+Tcl:
+  8.6.11-GCCcore-10.3.0: {}
+  8.6.12-GCCcore-11.3.0: {}
+  8.6.13-GCCcore-12.3.0: {}
+  8.6.13-GCCcore-13.3.0: {}
+  8.6.14-GCCcore-13.3.0: {}
+  Tk: {}
+TensorFlow:
+  2.13.0-foss-2023a: {}
+  2.15.1-foss-2023a-CUDA-12.1.1: {}
+  2.6.0-foss-2021a: {}
+  2.6.0-foss-2021a-CUDA-11.3.1: {}
+  2.9.1-foss-2022a: {}
+  2.9.1-foss-2022a-CUDA-11.7.0: {}
+TensorRT:
+  10.0.0-foss-2023a-CUDA-12.2.0: {}
+Theano:
+  1.1.2-foss-2021a-CUDA-11.3.1-PyMC: {}
+  1.1.2-foss-2021a-PyMC: {}
+  1.1.2-foss-2022a-CUDA-11.7.0-PyMC: {}
+  1.1.2-foss-2022a-PyMC: {}
+Tk:
+  8.6.11-GCCcore-10.3.0: {}
+  8.6.12-GCCcore-11.3.0: {}
+  8.6.13-GCCcore-12.3.0: {}
+  8.6.14-GCCcore-13.3.0: {}
+Tkinter:
+  3.10.4-GCCcore-11.3.0: {}
+  3.11.3-GCCcore-12.3.0: {}
+  3.12.3-GCCcore-13.3.0: {}
+  3.9.5-GCCcore-10.3.0: {}
+Transformers:
+  4.44.0-gfbf-2024a: {}
+Trilinos:
+  13.4.1-foss-2023a: {}
+UCC:
+  1.0.0-GCCcore-10.3.0: {}
+  1.2.0-GCCcore-12.3.0: {}
+  1.3.0-GCCcore-13.3.0: {}
+UCC-CUDA:
+  1.2.0-GCCcore-12.3.0-CUDA-11.7.0: {}
+  1.2.0-GCCcore-12.3.0-CUDA-12.1.1: {}
+  1.2.0-GCCcore-12.3.0-CUDA-12.2.0: {}
+  1.2.0-GCCcore-12.3.0-CUDA-12.3.2: {}
+  1.3.0-GCCcore-13.3.0-CUDA-12.6.0: {}
+UCX:
+  1.10.0-GCCcore-10.3.0: {}
+  1.12.1-GCCcore-10.3.0: {}
+  1.12.1-GCCcore-11.3.0: {}
+  1.13.1-GCCcore-11.3.0: {}
+  1.14.0-GCCcore-11.3.0: {}
+  1.14.1-GCCcore-12.3.0: {}
+  1.16.0-GCCcore-13.3.0: {}
+UCX-CUDA:
+  1.10.0-GCCcore-10.3.0-CUDA-11.3.1: {}
+  1.12.1-GCCcore-10.3.0-CUDA-11.3.1: {}
+  1.12.1-GCCcore-11.3.0-CUDA-11.7.0: {}
+  1.13.1-GCCcore-11.3.0-CUDA-11.7.0: {}
+  1.13.1-GCCcore-11.3.0-CUDA-11.7.1: {}
+  1.14.1-GCCcore-12.3.0-CUDA-11.7.0: {}
+  1.14.1-GCCcore-12.3.0-CUDA-12.1.1: {}
+  1.14.1-GCCcore-12.3.0-CUDA-12.2.0: {}
+  1.14.1-GCCcore-12.3.0-CUDA-12.3.2: {}
+UDUNITS:
+  2.2.28-GCCcore-10.3.0: {}
+  2.2.28-GCCcore-11.3.0: {}
+  2.2.28-GCCcore-12.3.0: {}
+  2.2.28-GCCcore-13.3.0: {}
+UNIX:
+  Linux: {}
+UnZip:
+  6.0-GCCcore-10.3.0: {}
+  6.0-GCCcore-11.3.0: {}
+  6.0-GCCcore-12.3.0: {}
+  6.0-GCCcore-13.3.0: {}
+VMD:
+  1.9.4a55-foss-2021a: {}
+  1.9.4a55-foss-2021a-CUDA-11.3.1: {}
+  1.9.4a57-foss-2021a: {}
+  1.9.4a57-foss-2021a-CUDA-11.3.1: {}
+  1.9.4a57-foss-2022a: {}
+  1.9.4a57-foss-2022a-CUDA-11.7.0: {}
+  1.9.4a57-foss-2023a: {}
+  1.9.4a57-foss-2023a-CUDA-12.2.0: {}
+VTK:
+  9.0.1-foss-2021a: {}
+  9.1.0-foss-2022a: {}
+  9.2.6-foss-2023a: {}
+  9.3.0-foss-2023a: {}
+  9.3.0-foss-2024a: {}
+VTune:
+  2021.9.0: {}
+  2022.2.0: {}
+  2022.3.0: {}
+  2023.2.0: {}
+  '2024.3': {}
+Valgrind:
+  3.17.0-gompi-2021a: {}
+  3.19.0-gompi-2022a: {}
+  3.21.0-gompi-2023a: {}
+  3.23.0-gompi-2024a: {}
+  3.24.0-gompi-2024a: {}
+Vim:
+  8.2.3227-GCCcore-10.3.0: {}
+VirtualGL:
+  3.1.1-GCC-13.3.0: {}
+WPS:
+  4.4-foss-2023a-dmpar: {}
+  4.6.0-foss-2024a-SFIRE-dmpar: {}
+  4.6.0-foss-2024a-dmpar: {}
+WRF:
+  4.5.1-foss-2023a-chem-dmpar: {}
+  4.5.1-foss-2023a-dmpar: {}
+  4.6.1-foss-2024a-dmpar: {}
+WRF-Fire:
+  4.4-foss-2023a-dmpar: {}
+WRF-SFIRE:
+  W4.4-S0.1-gompi-2024a: {}
+Wannier90:
+  3.1.0-foss-2023a: {}
+  3.1.0-foss-2024a: {}
+  3.1.0-intel-2023a: {}
+  3.1.0-intel-2024a: {}
+Wayland:
+  1.22.0-GCCcore-12.3.0: {}
+  1.23.0-GCCcore-13.3.0: {}
+X:
+  MIT: {}
+X11:
+  20210518-GCCcore-10.3.0: {}
+  20220504-GCCcore-11.3.0: {}
+  20230603-GCCcore-12.3.0: {}
+  20240607-GCCcore-13.3.0: {}
+XCFun:
+  2.1.1-GCCcore-10.3.0: {}
+  2.1.1-GCCcore-11.3.0: {}
+  2.1.1-GCCcore-12.3.0: {}
+  2.1.1-GCCcore-13.3.0: {}
+XGBoost:
+  2.1.3-gfbf-2024a-CUDA-12.6.0: {}
+XZ:
+  5.2.5-GCCcore-10.2.0: {}
+  5.2.5-GCCcore-10.3.0: {}
+  5.2.5-GCCcore-11.3.0: {}
+  5.4.2-GCCcore-12.3.0: {}
+  5.4.5-GCCcore-13.3.0: {}
+Xvfb:
+  1.20.11-GCCcore-10.3.0: {}
+  21.1.14-GCCcore-13.3.0: {}
+  21.1.3-GCCcore-11.3.0: {}
+  21.1.8-GCCcore-12.3.0: {}
+YAXT:
+  0.9.1-gompi-2021a: {}
+Yambo:
+  5.0.4-intel-2022a: {}
+  5.1.2-intel-2022a: {}
+  5.2.0-intel-2022a: {}
+  5.2.0-nvompi-2022.07: {}
+Yasm:
+  1.3.0-GCCcore-10.3.0: {}
+  1.3.0-GCCcore-11.3.0: {}
+  1.3.0-GCCcore-12.3.0: {}
+  1.3.0-GCCcore-13.3.0: {}
+Z3:
+  4.10.2-GCCcore-11.3.0: {}
+  4.12.2-GCCcore-12.3.0: {}
+  4.12.2-GCCcore-12.3.0-Python-3.11.3: {}
+  4.13.0-GCCcore-13.3.0: {}
+  4.8.11-GCCcore-10.3.0: {}
+ZeroMQ:
+  4.3.4-GCCcore-10.3.0: {}
+  4.3.4-GCCcore-11.3.0: {}
+  4.3.4-GCCcore-12.3.0: {}
+  4.3.5-GCCcore-13.3.0: {}
+Zip:
+  3.0-GCCcore-10.3.0: {}
+  3.0-GCCcore-11.3.0: {}
+  3.0-GCCcore-12.3.0: {}
+  3.0-GCCcore-13.3.0: {}
+Zoltan:
+  3.901-foss-2024a: {}
+absl-py:
+  2.1.0-GCCcore-12.3.0: {}
+aiohttp:
+  3.10.5-GCCcore-13.3.0: {}
+  3.8.3-GCCcore-11.3.0: {}
+  3.8.5-GCCcore-12.3.0: {}
+ant:
+  1.10.11-Java-11: {}
+  1.10.12-Java-17: {}
+  1.10.14-Java-11: {}
+  1.10.9-Java-11: {}
+archspec:
+  0.1.2-GCCcore-10.3.0: {}
+  0.1.4-GCCcore-11.3.0: {}
+  0.2.1-GCCcore-12.3.0: {}
+  0.2.4-GCCcore-13.3.0: {}
+  0.2.5-GCCcore-12.3.0: {}
+aria2:
+  1.36.0-GCCcore-10.3.0: {}
+  1.36.0-GCCcore-11.3.0: {}
+  1.36.0-GCCcore-12.3.0: {}
+arpack-ng:
+  3.8.0-foss-2021a: {}
+  3.8.0-foss-2022a: {}
+  3.9.0-foss-2023a: {}
+  3.9.1-foss-2024a: {}
+assimp:
+  5.4.3-GCCcore-13.3.0: {}
+at-spi2-atk:
+  2.38.0-GCCcore-10.3.0: {}
+  2.38.0-GCCcore-11.3.0: {}
+  2.38.0-GCCcore-12.3.0: {}
+at-spi2-core:
+  2.40.2-GCCcore-10.3.0: {}
+  2.44.1-GCCcore-11.3.0: {}
+  2.49.91-GCCcore-12.3.0: {}
+  2.50.0-GCCcore-13.3.0: {}
+  2.53.0-GCCcore-13.3.0: {}
+attr:
+  2.5.1-GCCcore-11.3.0: {}
+  2.5.1-GCCcore-12.3.0: {}
+  2.5.2-GCCcore-13.3.0: {}
+audio:
+  video: {}
+aws-cli:
+  2.7.1: {}
+bacio:
+  2.4.1-iimpi-2022a: {}
+  2.6.0-iimpi-2022a: {}
+bcrypt:
+  4.0.1-GCCcore-12.3.0: {}
+  4.1.3-GCCcore-13.3.0: {}
+binutils:
+  '2.34': {}
+  2.34-GCCcore-9.3.0: {}
+  '2.35': {}
+  2.35-GCCcore-10.2.0: {}
+  2.36.1: {}
+  2.36.1-GCCcore-10.3.0: {}
+  '2.38': {}
+  2.38-GCCcore-11.3.0: {}
+  '2.40': {}
+  2.40-GCCcore-12.3.0: {}
+  2.40-GCCcore-13.3.0: {}
+  '2.42': {}
+  2.42-GCCcore-13.3.0: {}
+bokeh:
+  2.4.1-foss-2021a: {}
+  2.4.3-foss-2022a: {}
+  3.2.2-foss-2023a: {}
+  3.5.0-gfbf-2024a: {}
+bufr:
+  11.7.1-iimpi-2022a: {}
+byacc:
+  2.0.20240109-GCCcore-13.3.0: {}
+bzip2:
+  1.0.8-GCCcore-10.2.0: {}
+  1.0.8-GCCcore-10.3.0: {}
+  1.0.8-GCCcore-11.3.0: {}
+  1.0.8-GCCcore-12.3.0: {}
+  1.0.8-GCCcore-13.3.0: {}
+c-ares:
+  1.17.2-GCCcore-10.3.0: {}
+  1.18.1-GCCcore-11.3.0: {}
+  1.19.1-GCCcore-12.3.0: {}
+cURL:
+  7.72.0-GCCcore-10.2.0: {}
+  7.76.0-GCCcore-10.3.0: {}
+  7.83.0-GCCcore-11.3.0: {}
+  8.0.1-GCCcore-12.3.0: {}
+  8.7.1-GCCcore-13.3.0: {}
+cairo:
+  1.16.0-GCCcore-10.3.0: {}
+  1.17.4-GCCcore-11.3.0: {}
+  1.17.8-GCCcore-12.3.0: {}
+  1.18.0-GCCcore-13.3.0: {}
+cffi:
+  1.15.1-GCCcore-12.3.0: {}
+  1.15.1-GCCcore-12.3.0-python-3.10.8: {}
+  1.16.0-GCCcore-13.3.0: {}
+  1.16.0-GCCcore-13.3.0-Python-3.11.10: {}
+cirq-core:
+  0.13.1-foss-2021a: {}
+  1.0.0-foss-2022a: {}
+  1.2.0-foss-2023a: {}
+  1.4.1-foss-2024a: {}
+client:
+  server: {}
+coccinelle:
+  1.2-GCC-12.3.0: {}
+  1.2-GCC-13.3.0: {}
+comet-ml:
+  3.47.0-GCC-12.3.0: {}
+compression:
+  decompression: {}
+  speed: {}
+conan:
+  1.60.2-GCCcore-12.3.0: {}
+configurable-http-proxy:
+  4.4.0-GCCcore-10.3.0: {}
+  4.5.2-GCCcore-11.3.0: {}
+  4.5.6-GCCcore-12.3.0: {}
+  4.6.2-GCCcore-13.3.0: {}
+cooler:
+  0.10.2-foss-2023a: {}
+  0.10.2-foss-2024a: {}
+coz:
+  0.2.2-GCCcore-12.3.0: {}
+cppy:
+  1.1.0-GCCcore-10.3.0: {}
+  1.2.1-GCCcore-11.3.0: {}
+  1.2.1-GCCcore-12.3.0: {}
+  1.2.1-GCCcore-13.3.0: {}
+cryptography:
+  41.0.1-GCCcore-12.3.0: {}
+  41.0.1-GCCcore-12.3.0-python-3.10.8: {}
+  42.0.8-GCCcore-13.3.0: {}
+  42.0.8-GCCcore-13.3.0-Python-3.11.10: {}
+cuDF:
+  23.10.0-foss-2023a-CUDA-12.2.0: {}
+  23.10.0-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+  24.10.0-foss-2024a-CUDA-12.6.0: {}
+cuDNN:
+  8.2.1.32-CUDA-11.3.1: {}
+  8.2.2.26-CUDA-11.4.1: {}
+  8.4.1.50-CUDA-11.7.0: {}
+  8.8.0.121-CUDA-12.2.0: {}
+  8.9.2.26-CUDA-11.7.0: {}
+  8.9.2.26-CUDA-12.1.1: {}
+  8.9.2.26-CUDA-12.2.0: {}
+  8.9.2.26-CUDA-12.6.0: {}
+  9.1.1.17-CUDA-12.3.2: {}
+  9.5.0.50-CUDA-12.6.0: {}
+cuGraph:
+  23.10.0-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+cuML:
+  23.10.0-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+cuQuantum:
+  22.11.0-CUDA-11.7.0: {}
+  22.11.0-foss-2022a: {}
+  23.10.0-CUDA-12.2.0: {}
+  24.08.0-CUDA-12.2.0: {}
+  24.08.0.5-CUDA-12.1.1: {}
+  24.08.0.5-CUDA-12.6.0: {}
+cuQuantum-Python:
+  22.11.0-foss-2022a-CUDA-11.7.0: {}
+  23.10.0-foss-2023a-CUDA-12.2.0: {}
+  24.8.0-foss-2023a-CUDA-12.2.0: {}
+  24.8.0.2-foss-2024a-CUDA-12.6.0: {}
+cuSpatial:
+  23.10.0-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+cuTENSOR:
+  1.6.2.3-CUDA-11.7.0: {}
+  1.7.0.1-CUDA-12.2.0: {}
+  2.0.2.5-CUDA-12.2.0: {}
+  2.0.2.5-CUDA-12.6.0: {}
+cudf-cudf:
+  23.10.0-foss-2023a-CUDA-12.2.0: {}
+cugraph:
+  23.2.0-foss-2022a-CUDA-11.7.0: {}
+cuml:
+  23.2.0-foss-2022a-CUDA-11.7.0: {}
+darshan-runtime:
+  3.4.4-gompi-2023a-HDF5-1.14.0: {}
+  3.4.4-iimpi-2023a-HDF5-1.14.0: {}
+darshan-util:
+  3.4.4-GCCcore-12.3.0: {}
+dask:
+  2021.9.1-foss-2021a: {}
+  2022.6.1-foss-2022a: {}
+  2023.9.2-foss-2023a: {}
+  2024.9.0-gfbf-2024a: {}
+dask-cuDF:
+  23.10.0-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+  24.10.0-foss-2024a-CUDA-12.6.0: {}
+dask-cudf:
+  23.2.0-foss-2022a-CUDA-11.7.0: {}
+dask-labextension:
+  7.0.0-gfbf-2024a: {}
+deal.II:
+  9.5.2-foss-2022a: {}
+  9.5.2-foss-2023a: {}
+  9.5.2-foss-2023a-ICU-71.1: {}
+  9.5.2-foss-2023a-trilinos: {}
+  9.5.2-foss-2024a: {}
+  9.5.2-foss-2024a-TBB: {}
+  9.5.2-foss-2024a-noTBB: {}
+  9.6.2-foss-2022a: {}
+  9.6.2-foss-2024a: {}
+decoder:
+  encoder: {}
+deepdiff:
+  6.7.1-GCCcore-13.3.0: {}
+deepspeed:
+  0.10.0-foss-2022a: {}
+deploy:
+  EasyBuild: {}
+  deploy-apps: {}
+  deploy-apps-2022.1: {}
+  deploy-apps-2023.1: {}
+  deploy-apps-2024.1: {}
+  deploy-user: {}
+dill:
+  0.3.6-GCCcore-11.3.0: {}
+  0.3.7-GCCcore-12.3.0: {}
+  0.3.8-GCCcore-12.3.0: {}
+  0.3.9-GCCcore-13.3.0: {}
+dotNET-Core-Runtime:
+  3.1.20-GCCcore-10.3.0: {}
+  6.0.6-GCCcore-11.3.0: {}
+  7.0.11-GCCcore-12.3.0: {}
+dotNET-SDK:
+  5.0.402-linux-x64: {}
+  6.0.202-linux-x64: {}
+  7.0.401-linux-x64: {}
+double-conversion:
+  3.1.5-GCCcore-10.3.0: {}
+  3.2.0-GCCcore-11.3.0: {}
+  3.3.0-GCCcore-12.3.0: {}
+  3.3.0-GCCcore-13.3.0: {}
+dtcmp:
+  1.1.2-gompi-2021a: {}
+  1.1.4-gompi-2022a: {}
+  1.1.4-gompi-2023a: {}
+  1.1.5-gompi-2024a: {}
+eSpeak-NG:
+  1.51-gfbf-2023a: {}
+eb-account:
+  2021a: {}
+eb-deploy:
+  2021a: {}
+eb-user:
+  2021a: {}
+ecCodes:
+  2.22.1-gompi-2021a: {}
+  2.27.0-gompi-2022a: {}
+  2.27.0-iimpi-2022a: {}
+einops:
+  0.7.0-GCCcore-12.3.0: {}
+elbencho:
+  3.0-25-GCC-13.3.0: {}
+elfutils:
+  0.185-GCCcore-10.3.0: {}
+  0.187-GCCcore-11.3.0: {}
+  0.189-GCCcore-12.3.0: {}
+  0.191-GCCcore-13.3.0: {}
+encoder:
+  decoder: {}
+env:
+  release: {}
+  staging: {}
+expat:
+  2.2.9-GCCcore-10.3.0: {}
+  2.4.8-GCCcore-11.3.0: {}
+  2.5.0-GCCcore-12.3.0: {}
+  2.6.2-GCCcore-13.3.0: {}
+expecttest:
+  0.1.3-GCCcore-10.3.0: {}
+  0.1.3-GCCcore-11.3.0: {}
+  0.1.5-GCCcore-12.3.0: {}
+  0.2.1-GCCcore-13.3.0: {}
+extrap:
+  4.0.3-foss-2021a: {}
+ffnvcodec:
+  12.0.16.0: {}
+  12.2.72.0: {}
+flash-attention:
+  2.6.3-foss-2023a-CUDA-12.1.1: {}
+flatbuffers:
+  1.12.1-GCCcore-11.3.0: {}
+  2.0.0-GCCcore-10.3.0: {}
+  2.0.0-GCCcore-11.3.0: {}
+  2.0.8-GCCcore-11.3.0: {}
+  23.5.26-GCCcore-12.3.0: {}
+  23.5.26-GCCcore-13.3.0: {}
+  24.3.25-GCCcore-13.3.0: {}
+flatbuffers-python:
+  1.12.1-GCCcore-11.3.0: {}
+  2.0-GCCcore-10.3.0: {}
+  2.0-GCCcore-11.3.0: {}
+  23.5.26-GCCcore-12.3.0: {}
+  23.5.26-GCCcore-13.3.0: {}
+  24.3.25-GCCcore-13.3.0: {}
+flex:
+  2.6.4: {}
+  2.6.4-GCCcore-10.2.0: {}
+  2.6.4-GCCcore-10.3.0: {}
+  2.6.4-GCCcore-11.3.0: {}
+  2.6.4-GCCcore-12.3.0: {}
+  2.6.4-GCCcore-13.3.0: {}
+  2.6.4-GCCcore-9.3.0: {}
+flit:
+  3.9.0-GCCcore-12.3.0: {}
+  3.9.0-GCCcore-12.3.0-python-3.10.8: {}
+  3.9.0-GCCcore-13.3.0: {}
+  3.9.0-GCCcore-13.3.0-Python-3.11.10: {}
+fmt:
+  9.1.0-GCCcore-11.3.0: {}
+fontconfig:
+  2.13.93-GCCcore-10.3.0: {}
+  2.14.0-GCCcore-11.3.0: {}
+  2.14.2-GCCcore-12.3.0: {}
+  2.15.0-GCCcore-13.3.0: {}
+fonttools:
+  4.53.1-GCCcore-13.3.0: {}
+foss:
+  2021a: {}
+  2022a: {}
+  2023a: {}
+  2024a: {}
+fpga-samples:
+  1.0.0: {}
+free:
+  open-source: {}
+freeglut:
+  3.2.1-GCCcore-10.3.0: {}
+  3.4.0-GCCcore-12.3.0: {}
+freetype:
+  2.10.4-GCCcore-10.3.0: {}
+  2.12.1-GCCcore-11.3.0: {}
+  2.13.0-GCCcore-12.3.0: {}
+  2.13.2-GCCcore-13.3.0: {}
+freud-analysis:
+  2.7.0-foss-2021a: {}
+from:
+  to: {}
+g2clib:
+  1.7.0-GCCcore-12.3.0: {}
+g2lib:
+  3.2.0-foss-2023a: {}
+gc:
+  8.2.2-GCCcore-11.3.0: {}
+geopandas:
+  0.10.2-foss-2021a: {}
+  1.0.1-foss-2024a: {}
+gettext:
+  '0.21': {}
+  0.21-GCCcore-10.3.0: {}
+  0.21-GCCcore-11.3.0: {}
+  0.21.1: {}
+  0.21.1-GCCcore-12.3.0: {}
+  0.22.5: {}
+  0.22.5-GCCcore-13.3.0: {}
+gfbf:
+  2023a: {}
+  '2024.05': {}
+  2024a: {}
+giflib:
+  5.2.1-GCCcore-10.3.0: {}
+  5.2.1-GCCcore-11.3.0: {}
+  5.2.1-GCCcore-12.3.0: {}
+  5.2.1-GCCcore-13.3.0: {}
+  5.2.2-GCCcore-13.3.0: {}
+git:
+  2.32.0-GCCcore-10.3.0-nodocs: {}
+  2.36.0-GCCcore-11.3.0-nodocs: {}
+  2.41.0-GCCcore-12.3.0-nodocs: {}
+  2.45.1-GCCcore-13.3.0: {}
+git-lfs:
+  3.3.0: {}
+  3.4.0: {}
+  3.5.1: {}
+glew:
+  2.1.0-GCCcore-10.3.0: {}
+  2.2.0-GCCcore-11.3.0-egl: {}
+  2.2.0-GCCcore-11.3.0-glx: {}
+gmpich:
+  2021a: {}
+gmpy2:
+  2.1.0b5-GCC-10.3.0: {}
+  2.1.2-GCC-11.3.0: {}
+  2.1.5-GCC-12.3.0: {}
+  2.2.0-GCCcore-13.3.0: {}
+gnuplot:
+  5.4.2-GCCcore-10.3.0: {}
+  5.4.2-GCCcore-11.3.0: {}
+  5.4.4-GCCcore-11.3.0: {}
+  5.4.8-GCCcore-12.3.0: {}
+  6.0.1-GCCcore-13.3.0: {}
+gocryptfs:
+  2.4.0-GCCcore-12.3.0: {}
+  2.4.0-GCCcore-13.3.0: {}
+gompi:
+  2021a: {}
+  2022a: {}
+  2022a-prte: {}
+  2023a: {}
+  2024a: {}
+googletest:
+  1.11.0-GCCcore-11.3.0: {}
+  1.13.0-GCCcore-12.3.0: {}
+  1.15.2-GCCcore-13.3.0: {}
+gperf:
+  3.1-GCCcore-10.3.0: {}
+  3.1-GCCcore-11.3.0: {}
+  3.1-GCCcore-12.3.0: {}
+  3.1-GCCcore-13.3.0: {}
+gperftools:
+  2.10-GCCcore-11.3.0: {}
+  2.12-GCCcore-12.3.0: {}
+  2.16-GCCcore-13.3.0: {}
+  2.9.1-GCCcore-10.3.0: {}
+gpustat:
+  1.1.1-GCCcore-13.3.0: {}
+graphite2:
+  1.3.14-GCCcore-11.3.0: {}
+  1.3.14-GCCcore-12.3.0: {}
+  1.3.14-GCCcore-13.3.0: {}
+graphviz-python:
+  0.20.1-GCCcore-12.3.0: {}
+groff:
+  1.22.4-GCCcore-10.3.0: {}
+  1.22.4-GCCcore-11.3.0: {}
+  1.22.4-GCCcore-12.3.0: {}
+  1.23.0-GCCcore-13.3.0: {}
+grpcio:
+  1.57.0-GCCcore-12.3.0: {}
+  1.67.1-GCCcore-13.3.0: {}
+gzip:
+  1.10-GCCcore-10.3.0: {}
+  1.12-GCCcore-11.3.0: {}
+  1.12-GCCcore-12.3.0: {}
+  1.13-GCCcore-13.3.0: {}
+h5netcdf:
+  1.2.0-foss-2023a: {}
+h5py:
+  3.11.0-foss-2024a: {}
+  3.11.0-foss-2024a-CUDA-12.6.0: {}
+  3.2.1-foss-2021a: {}
+  3.2.1-foss-2023a: {}
+  3.7.0-foss-2022a: {}
+  3.7.0-foss-2022a-CUDA-11.7.0: {}
+  3.9.0-foss-2023a: {}
+  3.9.0-foss-2023a-CUDA-12.2.0: {}
+hatch-jupyter-builder:
+  0.9.1-GCCcore-13.3.0: {}
+hatchling:
+  1.18.0-GCCcore-12.3.0: {}
+  1.18.0-GCCcore-12.3.0-python-3.10.8: {}
+  1.24.2-GCCcore-12.3.0: {}
+  1.24.2-GCCcore-13.3.0: {}
+  1.24.2-GCCcore-13.3.0-Python-3.11.10: {}
+header-only:
+  compiled: {}
+help2man:
+  1.47.12-GCCcore-9.3.0: {}
+  1.47.16-GCCcore-10.2.0: {}
+  1.48.3: {}
+  1.48.3-GCCcore-10.3.0: {}
+  1.49.2-GCCcore-11.3.0: {}
+  1.49.3-GCCcore-12.3.0: {}
+  1.49.3-GCCcore-13.3.0: {}
+heterogeneous:
+  hybrid: {}
+hoomd-blue:
+  2.9.7-foss-2021a: {}
+  2.9.7-foss-2021a-CUDA-11.3.1: {}
+  3.0.0-foss-2021a: {}
+  3.0.0-foss-2021a-CUDA-11.3.1: {}
+  3.1.0-foss-2021a: {}
+  3.1.0-foss-2021a-CUDA-11.3.1: {}
+  4.6.0-foss-2023a: {}
+hwloc:
+  2.10.0-GCCcore-13.3.0: {}
+  2.4.1-GCCcore-10.3.0: {}
+  2.7.1-GCCcore-10.3.0: {}
+  2.7.1-GCCcore-11.3.0: {}
+  2.9.1-GCCcore-12.3.0: {}
+hypothesis:
+  6.103.1-GCCcore-13.3.0: {}
+  6.103.1-GCCcore-13.3.0-Python-3.11.10: {}
+  6.13.1-GCCcore-10.3.0: {}
+  6.46.7-GCCcore-11.3.0: {}
+  6.82.0-GCCcore-12.3.0: {}
+  6.82.0-GCCcore-12.3.0-python-3.10.8: {}
+ifpga:
+  2021.3.0: {}
+ifpgasdk:
+  '20.4': {}
+  20.4-GCCcore-11.3.0: {}
+iimpi:
+  2021a: {}
+  2022a: {}
+  2023a: {}
+  2024a: {}
+imageio:
+  2.19.3-foss-2022a: {}
+  2.33.1-gfbf-2023a: {}
+  2.35.1-gfbf-2024a: {}
+imkl:
+  2021.2.0-gompi-2021a: {}
+  2021.2.0-iimpi-2021a: {}
+  2021.3.0-gompi-2021a: {}
+  2021.4.0-gompi-2021a: {}
+  2022.0.1-gompi-2021a: {}
+  2022.1.0: {}
+  2023.1.0: {}
+  2024.2.0: {}
+imkl-FFTW:
+  2022.1.0-iimpi-2022a: {}
+  2023.1.0-iimpi-2023a: {}
+  2024.2.0-iimpi-2024a: {}
+impi:
+  2021.13.0-intel-compilers-2024.2.0: {}
+  2021.2.0-intel-compilers-2021.2.0: {}
+  2021.3.1-intel-compilers-2021.3.0: {}
+  2021.4.0-intel-compilers-2021.4.0: {}
+  2021.5.1-intel-compilers-2022.0.2: {}
+  2021.6.0-intel-compilers-2022.1.0: {}
+  2021.9.0-intel-compilers-2023.1.0: {}
+input:
+  output: {}
+instant-ngp:
+  continuous-foss-2022a-CUDA-11.7.0: {}
+intel:
+  2021a: {}
+  2022a: {}
+  2023a: {}
+  2024a: {}
+intel-bundle:
+  2021a: {}
+intel-compilers:
+  2021.2.0: {}
+  2021.3.0: {}
+  2021.4.0: {}
+  2022.0.2: {}
+  2022.1.0: {}
+  2023.1.0: {}
+  2024.2.0: {}
+  2024.2.0-CUDA-12.6.0: {}
+intel-fpga:
+  2023.1.0: {}
+intel-oneapi:
+  2024.1.0: {}
+  2024.2.1: {}
+intltool:
+  0.51.0-GCCcore-10.3.0: {}
+  0.51.0-GCCcore-11.3.0: {}
+  0.51.0-GCCcore-12.3.0: {}
+  0.51.0-GCCcore-13.3.0: {}
+iperf:
+  3.17.1: {}
+ipyparallel:
+  8.8.0-foss-2023a: {}
+itac:
+  2021.10.0: {}
+  2021.4.0: {}
+  2021.5.0: {}
+  2021.6.0: {}
+  '2022.2': {}
+jax:
+  0.4.25-gfbf-2023a-CUDA-12.1.1: {}
+jaxopt:
+  0.8.3-gfbf-2023a-CUDA-12.1.1: {}
+jbigkit:
+  2.1-GCCcore-10.3.0: {}
+  2.1-GCCcore-11.3.0: {}
+  2.1-GCCcore-12.3.0: {}
+  2.1-GCCcore-13.3.0: {}
+jedi:
+  0.19.1-GCCcore-13.3.0: {}
+jemalloc:
+  5.2.1-GCCcore-10.3.0: {}
+  5.3.0-GCCcore-11.3.0: {}
+  5.3.0-GCCcore-11.3.0-64bytes-alignement: {}
+  5.3.0-GCCcore-12.3.0: {}
+  5.3.0-GCCcore-13.3.0: {}
+json-c:
+  0.16-GCCcore-12.3.0: {}
+  0.17-GCCcore-13.3.0: {}
+jupyter-bundle:
+  2024a: {}
+jupyter-contrib-nbextensions:
+  0.7.0-GCCcore-11.3.0: {}
+  0.7.0-GCCcore-12.3.0: {}
+  0.7.0-GCCcore-13.3.0: {}
+jupyter-lsp:
+  2.2.1-GCCcore-12.3.0: {}
+  2.2.5-GCCcore-13.3.0: {}
+jupyter-matlab-proxy:
+  0.10.0-GCCcore-12.3.0: {}
+  0.11.0-GCCcore-12.3.0: {}
+  0.15.4-GCCcore-13.3.0: {}
+  0.5.0-GCCcore-11.3.0: {}
+jupyter-server:
+  1.21.0-GCCcore-11.3.0: {}
+  2.14.2-GCCcore-13.3.0: {}
+  2.7.2-GCCcore-12.3.0: {}
+jupyter-server-proxy:
+  3.2.2-GCCcore-11.3.0: {}
+  4.0.0-GCCcore-12.3.0: {}
+  4.4.0-GCCcore-13.3.0: {}
+jupyterlab:
+  server-proxy: {}
+jupyterlab-lmod:
+  1.1.0-GCCcore-13.3.0: {}
+jupyterlab-lsp:
+  5.0.1-GCCcore-12.3.0: {}
+  5.1.0-GCCcore-13.3.0: {}
+jupyterlmod:
+  5.2.1-GCCcore-13.3.0: {}
+kim-api:
+  2.2.1-GCCcore-10.3.0: {}
+  2.3.0-GCC-12.3.0: {}
+  2.3.0-GCC-13.3.0: {}
+  2.3.0-GCCcore-11.3.0: {}
+  2.3.0-GCCcore-12.3.0: {}
+knem:
+  1.1.4-GCCcore-10.3.0: {}
+  1.1.4.90-GCCcore-11.3.0: {}
+libFLAME:
+  3.0.1-GCC-10.3.0-amd: {}
+libGLU:
+  9.0.1-GCCcore-10.3.0: {}
+  9.0.2-GCCcore-11.3.0: {}
+  9.0.3-GCCcore-12.3.0: {}
+  9.0.3-GCCcore-13.3.0: {}
+libXau:
+  1.0.11-foss-2023a: {}
+libXdmcp:
+  1.1.5-foss-2023a: {}
+libaec:
+  1.0.6-GCCcore-11.3.0: {}
+  1.0.6-gompi-2022a: {}
+libaio:
+  0.3.112-GCCcore-11.3.0: {}
+  0.3.113-GCCcore-13.3.0: {}
+libarchive:
+  3.4.3-GCCcore-10.2.0: {}
+  3.5.1-GCCcore-10.3.0: {}
+  3.6.1-GCCcore-11.3.0: {}
+  3.6.2-GCCcore-12.3.0: {}
+  3.7.4-GCCcore-13.3.0: {}
+libcap:
+  1.2.51-GCCcore-10.3.0: {}
+  1.2.53-GCCcore-11.3.0: {}
+  1.2.53-GCCcore-12.3.0: {}
+libcerf:
+  1.17-GCCcore-10.3.0: {}
+  2.1-GCCcore-11.3.0: {}
+  2.3-GCCcore-12.3.0: {}
+  2.4-GCCcore-13.3.0: {}
+libcint:
+  4.4.0-foss-2021a: {}
+  5.1.3-foss-2022a: {}
+  5.4.0-gfbf-2023a: {}
+  6.1.2-gfbf-2024a: {}
+libcircle:
+  0.3-gompi-2021a: {}
+  0.3-gompi-2022a: {}
+  0.3-gompi-2023a: {}
+  0.3-gompi-2024a: {}
+libdap:
+  3.20.11-GCCcore-11.3.0: {}
+  3.20.11-GCCcore-12.3.0: {}
+  3.20.7-GCCcore-10.3.0: {}
+libdeflate:
+  1.10-GCCcore-11.3.0: {}
+  1.18-GCCcore-12.3.0: {}
+  1.20-GCCcore-13.3.0: {}
+libdrm:
+  2.4.106-GCCcore-10.3.0: {}
+  2.4.110-GCCcore-11.3.0: {}
+  2.4.115-GCCcore-12.3.0: {}
+  2.4.122-GCCcore-13.3.0: {}
+libdwarf:
+  0.11.0-GCCcore-13.3.0: {}
+  0.4.1-GCCcore-11.3.0: {}
+  20210305-GCCcore-10.3.0: {}
+libelf:
+  0.8.13-GCCcore-10.3.0: {}
+  0.8.13-GCCcore-11.3.0: {}
+libelfin:
+  0.3-GCCcore-12.3.0: {}
+libepoxy:
+  1.5.10-GCCcore-11.3.0: {}
+  1.5.10-GCCcore-12.3.0: {}
+  1.5.10-GCCcore-13.3.0: {}
+  1.5.8-GCCcore-10.3.0: {}
+libevent:
+  2.1.12-GCCcore-10.3.0: {}
+  2.1.12-GCCcore-11.3.0: {}
+  2.1.12-GCCcore-12.3.0: {}
+  2.1.12-GCCcore-13.3.0: {}
+libfabric:
+  1.12.1-GCCcore-10.3.0: {}
+  1.14.0-GCCcore-10.3.0: {}
+  1.15.1-GCCcore-11.3.0: {}
+  1.18.0-GCCcore-12.3.0: {}
+  1.21.0-GCCcore-13.3.0: {}
+libffi:
+  3.3-GCCcore-10.3.0: {}
+  3.4.2-GCCcore-11.3.0: {}
+  3.4.4-GCCcore-12.3.0: {}
+  3.4.5-GCCcore-13.3.0: {}
+libgcrypt:
+  1.11.0-GCCcore-13.3.0: {}
+libgd:
+  2.3.1-GCCcore-10.3.0: {}
+  2.3.3-GCCcore-11.3.0: {}
+  2.3.3-GCCcore-12.3.0: {}
+  2.3.3-GCCcore-13.3.0: {}
+libgeotiff:
+  1.6.0-GCCcore-10.3.0: {}
+  1.7.1-GCCcore-11.3.0: {}
+  1.7.1-GCCcore-12.3.0: {}
+  1.7.3-GCCcore-13.3.0: {}
+libgit2:
+  1.1.0-GCCcore-10.3.0: {}
+  1.4.3-GCCcore-11.3.0: {}
+  1.7.1-GCCcore-12.3.0: {}
+  1.8.1-GCCcore-13.3.0: {}
+libglvnd:
+  1.3.3-GCCcore-10.3.0: {}
+  1.4.0-GCCcore-11.3.0: {}
+  1.6.0-GCCcore-12.3.0: {}
+  1.7.0-GCCcore-13.3.0: {}
+libgpg-error:
+  1.51-GCCcore-13.3.0: {}
+libgpuarray:
+  0.7.6-foss-2021a-CUDA-11.3.1: {}
+  0.7.6-foss-2022a-CUDA-11.7.0: {}
+libiconv:
+  1.16-GCCcore-10.3.0: {}
+  1.17-GCCcore-11.3.0: {}
+  1.17-GCCcore-12.3.0: {}
+  1.17-GCCcore-13.3.0: {}
+libjpeg-turbo:
+  2.0.6-GCCcore-10.3.0: {}
+  2.1.3-GCCcore-11.3.0: {}
+  2.1.5.1-GCCcore-12.3.0: {}
+  3.0.1-GCCcore-13.3.0: {}
+libmad:
+  0.15.1b-GCCcore-11.3.0: {}
+  0.15.1b-GCCcore-12.3.0: {}
+  0.15.1b-GCCcore-13.3.0: {}
+libogg:
+  1.3.4-GCCcore-10.3.0: {}
+  1.3.5-GCCcore-11.3.0: {}
+  1.3.5-GCCcore-12.3.0: {}
+  1.3.5-GCCcore-13.3.0: {}
+libopus:
+  1.3.1-GCCcore-11.3.0: {}
+  1.4-GCCcore-12.3.0: {}
+  1.5.2-GCCcore-13.3.0: {}
+libpciaccess:
+  0.16-GCCcore-10.3.0: {}
+  0.16-GCCcore-11.3.0: {}
+  0.17-GCCcore-12.3.0: {}
+  0.18.1-GCCcore-13.3.0: {}
+libpng:
+  1.6.37-GCCcore-10.3.0: {}
+  1.6.37-GCCcore-11.3.0: {}
+  1.6.39-GCCcore-12.3.0: {}
+  1.6.43-GCCcore-13.3.0: {}
+libpthread-stubs:
+  0.5-GCCcore-12.3.0: {}
+libreadline:
+  8.1-GCCcore-10.3.0: {}
+  8.1.2-GCCcore-11.3.0: {}
+  8.2-GCCcore-12.3.0: {}
+  8.2-GCCcore-13.3.0: {}
+librosa:
+  0.10.0-foss-2022a-CUDA-11.7.0: {}
+  0.10.1-foss-2023a: {}
+  0.9.2-foss-2021a-CUDA-11.3.1: {}
+libsndfile:
+  1.0.31-GCCcore-10.3.0: {}
+  1.1.0-GCCcore-11.3.0: {}
+  1.2.2-GCCcore-12.3.0: {}
+  1.2.2-GCCcore-13.3.0: {}
+libsodium:
+  1.0.18-GCCcore-10.3.0: {}
+  1.0.18-GCCcore-11.3.0: {}
+  1.0.18-GCCcore-12.3.0: {}
+  1.0.20-GCCcore-13.3.0: {}
+libtirpc:
+  1.3.2-GCCcore-10.3.0: {}
+  1.3.2-GCCcore-11.3.0: {}
+  1.3.3-GCCcore-12.3.0: {}
+  1.3.5-GCCcore-13.3.0: {}
+libtool:
+  2.4.6-GCCcore-10.3.0: {}
+  2.4.7: {}
+  2.4.7-GCCcore-11.3.0: {}
+  2.4.7-GCCcore-12.3.0: {}
+  2.4.7-GCCcore-13.3.0: {}
+libunistring:
+  1.0-GCCcore-11.3.0: {}
+libunwind:
+  1.4.0-GCCcore-10.3.0: {}
+  1.5.0-GCCcore-10.3.0: {}
+  1.6.2-GCCcore-11.3.0: {}
+  1.6.2-GCCcore-12.3.0: {}
+  1.8.1-GCCcore-13.3.0: {}
+libvorbis:
+  1.3.7-GCCcore-10.3.0: {}
+  1.3.7-GCCcore-11.3.0: {}
+  1.3.7-GCCcore-12.3.0: {}
+  1.3.7-GCCcore-13.3.0: {}
+libvori:
+  220621-GCCcore-12.3.0: {}
+  220621-GCCcore-13.3.0: {}
+libwebp:
+  1.2.0-GCCcore-10.3.0: {}
+  1.2.2-GCCcore-11.3.0: {}
+  1.3.1-GCCcore-12.3.0: {}
+  1.4.0-GCCcore-13.3.0: {}
+libxc:
+  5.1.5-GCC-10.3.0: {}
+  5.2.3-GCC-11.3.0: {}
+  5.2.3-intel-compilers-2022.1.0: {}
+  6.2.2-GCC-12.3.0: {}
+  6.2.2-GCC-13.3.0: {}
+  6.2.2-intel-compilers-2023.1.0: {}
+libxcb:
+  1.16.1-foss-2023a: {}
+libxml2:
+  2.11.4-GCCcore-12.3.0: {}
+  2.12.7-GCCcore-13.3.0: {}
+  2.9.10-GCCcore-10.3.0: {}
+  2.9.13-GCCcore-11.3.0: {}
+libxslt:
+  1.1.34-GCCcore-11.3.0: {}
+  1.1.38-GCCcore-12.3.0: {}
+  1.1.42-GCCcore-13.3.0: {}
+libxsmm:
+  1.16.1-GCC-10.3.0: {}
+  1.16.2-GCC-10.3.0: {}
+  1.16.2-GCC-11.3.0: {}
+  1.17-GCC-11.3.0: {}
+  1.17-GCC-12.3.0: {}
+  1.17-GCC-13.3.0: {}
+libyaml:
+  0.2.5-GCCcore-10.3.0: {}
+  0.2.5-GCCcore-11.3.0: {}
+  0.2.5-GCCcore-12.3.0: {}
+  0.2.5-GCCcore-13.3.0: {}
+lwgrp:
+  1.0.3-gompi-2021a: {}
+  1.0.5-gompi-2022a: {}
+  1.0.5-gompi-2023a: {}
+  1.0.6-gompi-2024a: {}
+lxml:
+  4.9.1-GCCcore-11.3.0: {}
+  4.9.2-GCCcore-12.3.0: {}
+  5.3.0-GCCcore-13.3.0: {}
+lxp-tools:
+  myquota: {}
+lz4:
+  1.9.3-GCCcore-10.3.0: {}
+  1.9.3-GCCcore-11.3.0: {}
+  1.9.4-GCCcore-12.3.0: {}
+  1.9.4-GCCcore-13.3.0: {}
+magma:
+  2.6.1-foss-2021a-CUDA-11.3.1: {}
+  2.6.2-foss-2022a-CUDA-11.7.0: {}
+  2.7.2-foss-2023a-CUDA-11.7.0: {}
+  2.7.2-foss-2023a-CUDA-12.1.1: {}
+  2.7.2-foss-2023a-CUDA-12.2.0: {}
+  2.8.0-foss-2024a-CUDA-12.6.0: {}
+make:
+  4.3-GCCcore-10.3.0: {}
+  4.4.1-GCCcore-12.3.0: {}
+  4.4.1-GCCcore-13.3.0: {}
+makedepend:
+  1.0.7-GCCcore-12.3.0: {}
+makeinfo:
+  6.7-GCCcore-10.3.0: {}
+  6.7-GCCcore-10.3.0-minimal: {}
+  6.8-GCCcore-11.3.0: {}
+  7.0.3-GCCcore-12.3.0: {}
+  7.1-GCCcore-13.3.0: {}
+matlab-proxy:
+  0.12.1-GCCcore-11.3.0: {}
+  0.12.1-GCCcore-12.3.0: {}
+  0.23.4-GCCcore-13.3.0: {}
+  0.5.4-GCCcore-11.3.0: {}
+matplotlib:
+  3.4.2-foss-2021a: {}
+  3.5.2-foss-2022a: {}
+  3.7.2-gfbf-2023a: {}
+  3.9.2-gfbf-2024a: {}
+maturin:
+  1.1.0-GCCcore-12.3.0: {}
+  1.4.0-GCCcore-12.3.0-Rust-1.70.0: {}
+  1.4.0-GCCcore-12.3.0-Rust-1.75.0: {}
+  1.6.0-GCCcore-13.3.0: {}
+  1.6.0-GCCcore-13.3.0-Python-3.11.10: {}
+  1.6.0-GCCcore-13.3.0-Rust-1.79.0: {}
+max:
+  stddev: {}
+mean:
+  min: {}
+meson-python:
+  0.12.1-GCCcore-11.3.0: {}
+  0.13.2-GCCcore-12.3.0: {}
+  0.13.2-GCCcore-12.3.0-python-3.10.8: {}
+  0.16.0-GCCcore-13.3.0: {}
+  0.16.0-GCCcore-13.3.0-Python-3.11.10: {}
+molmod:
+  1.4.8-foss-2021a: {}
+monai:
+  1.3.0-foss-2022a-CUDA-11.7.0: {}
+moreutils:
+  0.69-GCCcore-12.3.0: {}
+  0.69-GCCcore-13.3.0: {}
+mpi4py:
+  3.1.4-gompi-2023a: {}
+  4.0.0-gompi-2024a: {}
+  4.0.1-gompi-2024a: {}
+mpifileutils:
+  0.11-foss-2021a: {}
+  0.11.1-foss-2022a: {}
+  0.11.1-foss-2023a: {}
+  0.11.1-gompi-2024a: {}
+muparserx:
+  4.0.12-GCCcore-12.3.0: {}
+  4.0.12-GCCcore-13.3.0: {}
+nano:
+  5.7-GCCcore-10.3.0: {}
+ncurses:
+  '5.9': {}
+  '6.2': {}
+  6.2-GCCcore-10.2.0: {}
+  6.2-GCCcore-10.3.0: {}
+  '6.3': {}
+  6.3-GCCcore-11.3.0: {}
+  6.4-GCCcore-12.3.0: {}
+  6.4-GCCcore-13.3.0: {}
+  '6.5': {}
+  6.5-GCCcore-12.3.0: {}
+  6.5-GCCcore-13.3.0: {}
+ncview:
+  2.1.8-gompi-2021a: {}
+netCDF:
+  4.7.4-iimpi-2022a: {}
+  4.8.0-gompi-2021a: {}
+  4.8.0-iimpi-2021a: {}
+  4.9.0-gompi-2022a: {}
+  4.9.0-iimpi-2022a: {}
+  4.9.2-gompi-2023a: {}
+  4.9.2-gompi-2024a: {}
+  4.9.2-iimpi-2023a: {}
+  4.9.2-iimpi-2024a: {}
+netCDF-Fortran:
+  4.5.3-gompi-2021a: {}
+  4.5.3-iimpi-2021a: {}
+  4.5.3-iimpi-2022a: {}
+  4.6.0-gompi-2022a: {}
+  4.6.0-iimpi-2022a: {}
+  4.6.1-gompi-2023a: {}
+  4.6.1-gompi-2024a: {}
+  4.6.1-iimpi-2023a: {}
+  4.6.1-iimpi-2024a: {}
+netcdf4-python:
+  1.5.7-foss-2021a: {}
+nettle:
+  3.10-GCCcore-13.3.0: {}
+  3.7.2-GCCcore-10.3.0: {}
+  3.8-GCCcore-11.3.0: {}
+  3.9.1-GCCcore-12.3.0: {}
+networkx:
+  2.5.1-foss-2021a: {}
+  2.6.1-foss-2021a: {}
+  2.6.3-foss-2021a: {}
+  2.8.4-foss-2022a: {}
+  3.1-gfbf-2023a: {}
+  3.4-gfbf-2024a: {}
+nodejs:
+  14.17.0-GCCcore-10.3.0: {}
+  14.17.2-GCCcore-10.3.0: {}
+  16.15.1-GCCcore-11.3.0: {}
+  18.17.1-GCCcore-11.3.0: {}
+  18.17.1-GCCcore-12.3.0: {}
+  20.13.1-GCCcore-13.3.0: {}
+nsync:
+  1.24.0-GCCcore-10.3.0: {}
+  1.25.0-GCCcore-11.3.0: {}
+  1.26.0-GCCcore-12.3.0: {}
+  1.29.2-GCCcore-13.3.0: {}
+numactl:
+  2.0.14-GCCcore-10.3.0: {}
+  2.0.14-GCCcore-11.3.0: {}
+  2.0.16-GCCcore-12.3.0: {}
+  2.0.18-GCCcore-13.3.0: {}
+numba:
+  0.53.1-foss-2021a: {}
+  0.56.4-foss-2022a: {}
+  0.56.4-foss-2022a-CUDA-11.7.0: {}
+  0.57.1-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+  0.58.1-foss-2023a: {}
+  0.58.1-foss-2023a-CUDA-12.2.0: {}
+  0.60.0-foss-2024a: {}
+  0.60.0-foss-2024a-CUDA-12.6.0: {}
+nvompi:
+  2021a: {}
+  '2022.07': {}
+nvompic:
+  2021a: {}
+  2022a: {}
+  '2023.07': {}
+  2023a: {}
+  2024a: {}
+nvtop:
+  1.2.2-GCCcore-10.3.0: {}
+  3.1.0-GCCcore-12.3.0: {}
+omnitrace:
+  1.7.3-foss-2022a: {}
+ompi-configs:
+  4.1.5-ucx: {}
+  4.1.5-ucx-cuda: {}
+  4.1.5-ucx-ucc: {}
+  4.1.5-ucx-ucc-cuda: {}
+  5.0.3-ucx: {}
+  5.0.3-ucx-cuda: {}
+  5.0.3-ucx-ucc: {}
+  5.0.3-ucx-ucc-cuda: {}
+onnx:
+  1.13.0-foss-2022a: {}
+optree:
+  0.11.0-GCCcore-13.3.0: {}
+p4est:
+  2.8.6-foss-2022a: {}
+  2.8.6-foss-2023a: {}
+  2.8.6-foss-2024a: {}
+p7zip:
+  17.04-GCCcore-12.3.0: {}
+packaging:
+  archive: {}
+parallel:
+  20220722-GCCcore-11.3.0: {}
+  20230722-GCCcore-12.3.0: {}
+  20240722-GCCcore-13.3.0: {}
+parameterized:
+  0.9.0-GCCcore-12.3.0: {}
+parser:
+  generator: {}
+patchelf:
+  0.18.0-GCCcore-12.3.0: {}
+  0.18.0-GCCcore-13.3.0: {}
+pixman:
+  0.40.0-GCCcore-10.3.0: {}
+  0.40.0-GCCcore-11.3.0: {}
+  0.42.2-GCCcore-12.3.0: {}
+  0.43.4-GCCcore-13.3.0: {}
+pkg-config:
+  0.29.2: {}
+  0.29.2-GCCcore-10.3.0: {}
+  0.29.2-GCCcore-11.3.0: {}
+  0.29.2-GCCcore-12.3.0: {}
+pkgconf:
+  1.8.0: {}
+  1.8.0-GCCcore-11.3.0: {}
+  1.9.5-GCCcore-12.3.0: {}
+  2.0.3-GCCcore-13.3.0: {}
+  2.2.0: {}
+  2.2.0-GCCcore-13.3.0: {}
+pkgconfig:
+  1.5.4-GCCcore-10.3.0-python: {}
+  1.5.5-GCCcore-11.3.0-python: {}
+  1.5.5-GCCcore-12.3.0-python: {}
+  1.5.5-GCCcore-13.3.0-python: {}
+plotly.py:
+  5.16.0-GCCcore-12.3.0: {}
+pocl:
+  4.0-GCC-12.3.0: {}
+  6.0-GCC-13.3.0: {}
+poetry:
+  1.5.1-GCCcore-12.3.0: {}
+  1.5.1-GCCcore-12.3.0-python-3.10.8: {}
+  1.8.3-GCCcore-13.3.0: {}
+  1.8.3-GCCcore-13.3.0-Python-3.11.10: {}
+poppler:
+  23.09.0-GCC-12.3.0: {}
+popt:
+  '1.18': {}
+  '1.19': {}
+protobuf:
+  23.0-GCCcore-12.3.0: {}
+  24.0-GCCcore-12.3.0: {}
+  28.0-GCCcore-13.3.0: {}
+  3.17.3-GCCcore-10.3.0: {}
+  3.19.4-GCCcore-11.3.0: {}
+  3.20.1-GCCcore-11.3.0: {}
+  3.20.2-GCCcore-11.3.0: {}
+  3.21.2-GCCcore-11.3.0: {}
+protobuf-python:
+  3.17.3-GCCcore-10.3.0: {}
+  3.19.4-GCCcore-11.3.0: {}
+  3.20.1-GCCcore-11.3.0: {}
+  3.20.2-GCCcore-11.3.0: {}
+  4.23.0-GCCcore-12.3.0: {}
+  4.24.0-GCCcore-12.3.0: {}
+  5.28.0-GCCcore-13.3.0: {}
+pscom:
+  5.4.8-1-GCCcore-10.3.0: {}
+  5.4.8-1-GCCcore-10.3.0-CUDA-11.3.1: {}
+  5.5.0-1-GCCcore-10.3.0: {}
+  5.5.0-1-GCCcore-10.3.0-CUDA-11.3.1: {}
+  5.5.0-1-GCCcore-11.3.0: {}
+  5.5.0-1-GCCcore-11.3.0-CUDA-11.7.0: {}
+  5.7.0-1-GCCcore-12.3.0: {}
+  5.7.0-1-GCCcore-12.3.0-CUDA-12.2.0: {}
+  5.8.0-1-GCCcore-13.3.0: {}
+  5.8.0-1-GCCcore-13.3.0-CUDA-12.6.0: {}
+psmpi:
+  5.10.0-1-GCC-13.3.0: {}
+  5.10.0-1-GCC-13.3.0-CUDA-12.6.0: {}
+  5.6.0-1-GCC-10.3.0: {}
+  5.6.0-1-GCC-10.3.0-CUDA-11.3.1: {}
+  5.6.0-1-GCC-11.3.0: {}
+  5.6.0-1-GCC-11.3.0-CUDA-11.7.0: {}
+  5.6.0-1-NVHPC-22.3: {}
+  5.9.2-1-GCC-12.3.0: {}
+  5.9.2-1-GCC-12.3.0-CUDA-12.2.0: {}
+psutil:
+  5.9.8-GCCcore-12.3.0: {}
+  6.0.0-GCCcore-13.3.0: {}
+psycopg:
+  3.2.3-GCCcore-13.3.0: {}
+psycopg2:
+  2.9.9-GCCcore-12.3.0: {}
+  2.9.9-GCCcore-13.3.0: {}
+pugixml:
+  1.12.1-GCCcore-11.3.0: {}
+py-cpuinfo:
+  9.0.0-GCCcore-11.3.0: {}
+pybind11:
+  2.11.1-GCCcore-12.3.0: {}
+  2.11.1-GCCcore-12.3.0-python-3.10.8: {}
+  2.12.0-GCC-13.3.0: {}
+  2.13.6-GCC-13.3.0: {}
+  2.13.6-GCC-13.3.0-Python-3.11.10: {}
+  2.6.2-GCCcore-10.3.0: {}
+  2.9.2-GCCcore-11.3.0: {}
+pydantic:
+  1.10.13-GCCcore-12.3.0: {}
+  1.10.4-GCCcore-11.3.0: {}
+  2.9.1-GCCcore-13.3.0: {}
+pyfaidx:
+  0.8.1.1-GCCcore-12.3.0: {}
+  0.8.1.2-GCCcore-13.3.0: {}
+pyproj:
+  3.1.0-GCCcore-10.3.0: {}
+  3.7.0-GCCcore-13.3.0: {}
+pytest:
+  7.4.2-GCCcore-12.3.0: {}
+pytest-flakefinder:
+  1.1.0-GCCcore-12.3.0: {}
+  1.1.0-GCCcore-13.3.0: {}
+pytest-rerunfailures:
+  12.0-GCCcore-12.3.0: {}
+  14.0-GCCcore-13.3.0: {}
+pytest-shard:
+  0.1.2-GCCcore-12.3.0: {}
+  0.1.2-GCCcore-13.3.0: {}
+pytest-xdist:
+  3.3.1-GCCcore-12.3.0: {}
+pytket:
+  1.34.0-foss-2024a: {}
+qristal:
+  1.7.0: {}
+  1.7.0-rc0: {}
+  1.7.0-rc0-GCC-12.3.0-CUDA-12.2.0: {}
+qsimcirq:
+  0.12.1-foss-2021a: {}
+  0.14.0-foss-2022a: {}
+  0.17.0-foss-2023a: {}
+  0.21.0-foss-2024a: {}
+rapidsai:
+  23.10.0-foss-2023a-CUDA-12.2.0-python-3.10.8: {}
+  23.2.0-foss-2022a-CUDA-11.7.0: {}
+re2c:
+  2.1.1-GCCcore-10.3.0: {}
+  2.2-GCCcore-11.3.0: {}
+  3.1-GCCcore-12.3.0: {}
+  3.1-GCCcore-13.3.0: {}
+retworkx:
+  0.13.2-foss-2023a: {}
+  0.15.1-foss-2024a: {}
+rustworkx:
+  0.13.2-foss-2023a: {}
+  0.15.1-foss-2024a: {}
+s3cmd:
+  2.2.0: {}
+scikit-build:
+  0.11.1-foss-2021a: {}
+  0.15.0-GCCcore-11.3.0: {}
+  0.15.0-foss-2022a: {}
+  0.17.6-GCCcore-12.3.0: {}
+  0.17.6-GCCcore-12.3.0-python-3.10.8: {}
+  0.17.6-GCCcore-13.3.0: {}
+  0.17.6-GCCcore-13.3.0-Python-3.11.10: {}
+scikit-build-core:
+  0.10.6-GCCcore-13.3.0: {}
+scikit-image:
+  0.18.3-foss-2021a: {}
+  0.19.3-foss-2022a: {}
+  0.22.0-foss-2023a: {}
+  0.24.0-foss-2024a: {}
+scikit-learn:
+  0.24.2-foss-2021a: {}
+  1.1.2-foss-2022a: {}
+  1.3.1-gfbf-2023a: {}
+  1.5.2-gfbf-2024a: {}
+search:
+  indexing: {}
+setuptools:
+  67.0.0-GCCcore-12.3.0: {}
+  69.0.0-GCCcore-12.3.0: {}
+  69.5.1-GCCcore-13.3.0: {}
+setuptools-rust:
+  1.6.0-GCCcore-12.3.0: {}
+  1.6.0-GCCcore-12.3.0-python-3.10.8: {}
+  1.9.0-GCCcore-12.3.0: {}
+  1.9.0-GCCcore-13.3.0: {}
+  1.9.0-GCCcore-13.3.0-Python-3.11.10: {}
+snappy:
+  1.1.10-GCCcore-12.3.0: {}
+  1.1.10-GCCcore-13.3.0: {}
+  1.1.8-GCCcore-10.3.0: {}
+  1.1.9-GCCcore-11.3.0: {}
+  1.2.1-GCCcore-13.3.0: {}
+sonic:
+  20180202-gfbf-2023a: {}
+sp:
+  2.4.0-iimpi-2022a: {}
+spdlog:
+  1.11.0-GCCcore-12.3.0: {}
+  1.14.1-GCCcore-13.3.0: {}
+spglib:
+  2.0.2-GCCcore-12.3.0: {}
+  2.0.2-GCCcore-13.3.0: {}
+squashfs-tools:
+  4.6.1-GCCcore-12.3.0: {}
+squashfuse:
+  0.2.0-GCCcore-12.3.0: {}
+  0.5.0-GCC-12.3.0: {}
+  0.5.0-GCCcore-12.3.0: {}
+  0.5.2-GCCcore-12.3.0: {}
+  0.5.2-GCCcore-13.3.0: {}
+sympy:
+  1.10.1-foss-2021a: {}
+  1.10.1-foss-2022a: {}
+  1.12-gfbf-2023a: {}
+  1.13.3-gfbf-2024a: {}
+tbb:
+  2020.3-GCCcore-10.3.0: {}
+  2021.10.0-GCCcore-12.3.0: {}
+  2021.11.0-GCCcore-12.3.0: {}
+  2021.13.0-GCCcore-13.3.0: {}
+  2021.2.0-GCCcore-10.3.0: {}
+  2021.3.0-GCCcore-10.3.0: {}
+  2021.4.0-GCCcore-10.3.0: {}
+  2021.5.0-GCCcore-11.3.0: {}
+tblis:
+  20230422-foss-2024a: {}
+tcsh:
+  6.24.10-GCCcore-12.3.0: {}
+  6.24.13-GCCcore-13.3.0: {}
+tensorboard:
+  2.15.1-gfbf-2023a: {}
+  2.18.0-gfbf-2024a: {}
+texlive:
+  20230313-GCC-12.3.0: {}
+thrift:
+  0.16.0-GCCcore-12.3.0: {}
+time:
+  1.9-GCCcore-12.3.0: {}
+  1.9-GCCcore-13.3.0: {}
+timm:
+  1.0.14-foss-2024a-CUDA-12.6.0: {}
+tlparse:
+  0.3.5-GCCcore-13.3.0: {}
+to:
+  from: {}
+tokenizers:
+  0.19.1-GCCcore-13.3.0: {}
+torchaudio:
+  2.1.2-foss-2023a-PyTorch-2.1.2-CUDA-12.1.1: {}
+  2.3.0-foss-2024a-PyTorch-2.3.0-CUDA-12.6.0: {}
+torchtext:
+  0.10.1-foss-2021a-PyTorch-1.9.0: {}
+  0.11.0-foss-2021a: {}
+  0.11.0-foss-2021a-CUDA-11.3.1: {}
+  0.12.0-foss-2022a: {}
+  0.9.1-foss-2021a-PyTorch-1.8.2: {}
+torchvision:
+  0.10.1-foss-2021a-CUDA-11.3.1-PyTorch-1.9.0: {}
+  0.11.1-foss-2021a-CUDA-11.3.1: {}
+  0.13.1-foss-2022a: {}
+  0.13.1-foss-2022a-CUDA-11.7.0: {}
+  0.16.0-foss-2023a-CUDA-12.1.1: {}
+  0.18.1-foss-2024a-CUDA-12.6.0: {}
+tornado:
+  6.3.2-GCCcore-12.3.0: {}
+  6.4.1-GCCcore-13.3.0: {}
+tqdm:
+  4.61.1-GCCcore-10.3.0: {}
+  4.64.0-GCCcore-11.3.0: {}
+  4.66.1-GCCcore-12.3.0: {}
+  4.66.5-GCCcore-13.3.0: {}
+training:
+  evaluation: {}
+typing-extensions:
+  3.10.0.0-GCCcore-10.3.0: {}
+  4.11.0-GCCcore-13.3.0: {}
+  4.2.0-GCCcore-11.3.0: {}
+  4.8.0-GCCcore-12.3.0: {}
+  4.9.0-GCCcore-12.3.0: {}
+ucx-configs:
+  DC: {}
+  DC-CUDA: {}
+  RC: {}
+  RC-CUDA: {}
+  UD: {}
+uftp-client:
+  1.4.4: {}
+  1.5.0: {}
+unicore-ucc:
+  9.0.0: {}
+unserialization:
+  serialization: {}
+utf8proc:
+  2.6.1-GCCcore-10.3.0: {}
+  2.7.0-GCCcore-11.3.0: {}
+  2.8.0-GCCcore-12.3.0: {}
+  2.9.0-GCCcore-13.3.0: {}
+util-linux:
+  2.36-GCCcore-10.3.0: {}
+  2.38-GCCcore-11.3.0: {}
+  2.39-GCCcore-12.3.0: {}
+  2.40-GCCcore-13.3.0: {}
+v2:
+  v3: {}
+virtualenv:
+  20.23.1-GCCcore-12.3.0: {}
+  20.23.1-GCCcore-12.3.0-python-3.10.8: {}
+  20.26.2-GCCcore-13.3.0: {}
+  20.26.2-GCCcore-13.3.0-Python-3.11.10: {}
+w3emc:
+  2.10.0-iimpi-2022a: {}
+wrapt:
+  1.15.0-gfbf-2023a: {}
+  1.16.0-gfbf-2024a: {}
+wxWidgets:
+  3.1.5-GCC-10.3.0: {}
+  3.2.2.1-GCC-12.3.0: {}
+x264:
+  20210414-GCCcore-10.3.0: {}
+  20220602-GCCcore-11.3.0: {}
+  20220620-GCCcore-11.3.0: {}
+  20230226-GCCcore-12.3.0: {}
+  20240513-GCCcore-13.3.0: {}
+x265:
+  3.5-GCCcore-10.3.0: {}
+  3.5-GCCcore-11.3.0: {}
+  3.5-GCCcore-12.3.0: {}
+  3.6-GCCcore-13.3.0: {}
+xacc:
+  1.1.0-foss-2023a: {}
+xarray:
+  2024.9.0-gfbf-2024a: {}
+xcb-proto:
+  1.16.0: {}
+  1.17.0: {}
+xcb-util:
+  0.4.1-foss-2023a: {}
+xcb-util-image:
+  0.4.1-foss-2023a: {}
+xcb-util-keysyms:
+  0.4.1-foss-2023a: {}
+xcb-util-renderutil:
+  0.3.10-foss-2023a: {}
+xcb-util-wm:
+  0.4.2-foss-2023a: {}
+xorg-macros:
+  1.19.3-GCCcore-10.3.0: {}
+  1.19.3-GCCcore-11.3.0: {}
+  1.20.0-GCCcore-12.3.0: {}
+  1.20.1-GCCcore-13.3.0: {}
+xpmem:
+  2.6.5-36-GCCcore-10.3.0: {}
+  2.6.5-36-GCCcore-11.3.0: {}
+  2.6.5-36-GCCcore-13.3.0: {}
+xprop:
+  1.2.5-GCCcore-10.3.0: {}
+  1.2.5-GCCcore-11.3.0: {}
+  1.2.6-GCCcore-12.3.0: {}
+xproto:
+  7.0.31-GCCcore-12.3.0: {}
+xxd:
+  8.2.4220-GCCcore-10.3.0: {}
+  9.0.0034-GCCcore-11.3.0: {}
+  9.0.2112-GCCcore-12.3.0: {}
+  9.0.2116-GCCcore-12.3.0: {}
+  9.1.0740-GCCcore-13.3.0: {}
+yaff:
+  1.6.0-foss-2021a: {}
+yaml-cpp:
+  0.8.0-GCCcore-13.3.0: {}
+zfp:
+  1.0.0-GCCcore-11.3.0: {}
+zlib:
+  1.2.11: {}
+  1.2.11-GCCcore-10.2.0: {}
+  1.2.11-GCCcore-10.3.0: {}
+  1.2.11-GCCcore-9.3.0: {}
+  1.2.12: {}
+  1.2.12-GCCcore-11.3.0: {}
+  1.2.13: {}
+  1.2.13-GCCcore-12.3.0: {}
+  1.2.13-GCCcore-13.3.0: {}
+  1.3.1: {}
+  1.3.1-GCCcore-13.3.0: {}
+zsh:
+  5.9-GCCcore-13.3.0: {}
+zstd:
+  1.4.9-GCCcore-10.3.0: {}
+  1.5.2-GCCcore-11.3.0: {}
+  1.5.5-GCCcore-12.3.0: {}
+  1.5.6-GCCcore-13.3.0: {}

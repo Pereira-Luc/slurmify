@@ -1,0 +1,16 @@
+pyinstaller --name slurmify --onefile \
+--add-data "api:api" \
+--add-data "configs:configs" \
+--add-data "errorMsgs:errorMsgs" \
+--add-data "streamlit_functions:streamlit_functions" \
+--add-data "Templates:Templates" \
+--add-data "TestConfigs:TestConfigs" \
+--add-data "utils:utils" \
+--add-data "systemConfig:systemConfig" \
+--add-data "streamlit_main.py:." \
+--hidden-import streamlit \
+--hidden-import yaml \
+--hidden-import fastapi \
+--hidden-import uvicorn \
+--collect-all streamlit \
+main.py
